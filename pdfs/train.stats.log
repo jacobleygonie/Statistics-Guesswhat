@@ -1,0 +1,2297 @@
+2018-02-12 22:13:00,686 :: INFO :: Dialogue 0 : 
+2018-02-12 22:13:00,687 :: INFO ::  - picture : http://mscoco.org/images/534127
+2018-02-12 22:13:00,687 :: INFO ::  - object category : person
+2018-02-12 22:13:00,687 :: INFO ::  - object position : 371.94, 123.5
+2018-02-12 22:13:00,687 :: INFO ::  - question/answers :
+2018-02-12 22:13:00,687 :: INFO ::   > Is it a person? ? Yes
+2018-02-12 22:13:00,687 :: INFO ::   > Is the person a boy? ? Yes
+2018-02-12 22:13:00,688 :: INFO ::   #> success
+2018-02-12 22:13:00,688 :: INFO :: 
+2018-02-12 22:13:00,688 :: INFO :: Dialogue 1 : 
+2018-02-12 22:13:00,688 :: INFO ::  - picture : http://mscoco.org/images/23893
+2018-02-12 22:13:00,688 :: INFO ::  - object category : person
+2018-02-12 22:13:00,688 :: INFO ::  - object position : 170.225, 233.71
+2018-02-12 22:13:00,689 :: INFO ::  - question/answers :
+2018-02-12 22:13:00,689 :: INFO ::   > is it a person? ? Yes
+2018-02-12 22:13:00,689 :: INFO ::   > in the foreground? ? Yes
+2018-02-12 22:13:00,689 :: INFO ::   #> success
+2018-02-12 22:13:00,689 :: INFO :: 
+2018-02-12 22:13:00,689 :: INFO :: Dialogue 2 : 
+2018-02-12 22:13:00,689 :: INFO ::  - picture : http://mscoco.org/images/230617
+2018-02-12 22:13:00,690 :: INFO ::  - object category : bowl
+2018-02-12 22:13:00,690 :: INFO ::  - object position : 48.025000000000006, 159.475
+2018-02-12 22:13:00,690 :: INFO ::  - question/answers :
+2018-02-12 22:13:00,690 :: INFO ::   > is it furniture? ? No
+2018-02-12 22:13:00,690 :: INFO ::   > is it white? ? No
+2018-02-12 22:13:00,690 :: INFO ::   > is it on the wall? ? No
+2018-02-12 22:13:00,691 :: INFO ::   > is it on the ground? ? No
+2018-02-12 22:13:00,691 :: INFO ::   > is it light up? ? No
+2018-02-12 22:13:00,691 :: INFO ::   > is it on the table? ? Yes
+2018-02-12 22:13:00,691 :: INFO ::   > is it on the close table? ? No
+2018-02-12 22:13:00,691 :: INFO ::   > is it on the left on the far table? ? Yes
+2018-02-12 22:13:00,691 :: INFO ::   #> success
+2018-02-12 22:13:00,691 :: INFO :: 
+2018-02-12 22:13:00,691 :: INFO :: Dialogue 3 : 
+2018-02-12 22:13:00,692 :: INFO ::  - picture : http://mscoco.org/images/460809
+2018-02-12 22:13:00,692 :: INFO ::  - object category : bottle
+2018-02-12 22:13:00,692 :: INFO ::  - object position : 228.26, 468.255
+2018-02-12 22:13:00,692 :: INFO ::  - question/answers :
+2018-02-12 22:13:00,692 :: INFO ::   > is it an appliance? ? No
+2018-02-12 22:13:00,692 :: INFO ::   > is it on the counter? ? Yes
+2018-02-12 22:13:00,692 :: INFO ::   > is it a spice? ? Yes
+2018-02-12 22:13:00,692 :: INFO ::   > does the container have a picture? ? No
+2018-02-12 22:13:00,692 :: INFO ::   > Does the container have a red top? ? No
+2018-02-12 22:13:00,692 :: INFO ::   > is it red white and blue? ? No
+2018-02-12 22:13:00,692 :: INFO ::   > is it on the spice carousel? ? Yes
+2018-02-12 22:13:00,692 :: INFO ::   #> success
+2018-02-12 22:13:00,692 :: INFO :: 
+2018-02-12 22:13:00,692 :: INFO :: Dialogue 4 : 
+2018-02-12 22:13:00,693 :: INFO ::  - picture : http://mscoco.org/images/263178
+2018-02-12 22:13:00,693 :: INFO ::  - object category : banana
+2018-02-12 22:13:00,693 :: INFO ::  - object position : 268.865, 318.325
+2018-02-12 22:13:00,693 :: INFO ::  - question/answers :
+2018-02-12 22:13:00,693 :: INFO ::   > is it food? ? Yes
+2018-02-12 22:13:00,693 :: INFO ::   > is it fruit? ? Yes
+2018-02-12 22:13:00,693 :: INFO ::   > how many fruits? ? N/A
+2018-02-12 22:13:00,693 :: INFO ::   > is there just one fruit? ? Yes
+2018-02-12 22:13:00,693 :: INFO ::   #> success
+2018-02-12 22:13:00,693 :: INFO :: 
+2018-02-12 22:13:00,693 :: INFO :: Dialogue 5 : 
+2018-02-12 22:13:00,694 :: INFO ::  - picture : http://mscoco.org/images/360739
+2018-02-12 22:13:00,694 :: INFO ::  - object category : person
+2018-02-12 22:13:00,694 :: INFO ::  - object position : 114.665, 126.66
+2018-02-12 22:13:00,694 :: INFO ::  - question/answers :
+2018-02-12 22:13:00,694 :: INFO ::   > Is it a person? ? Yes
+2018-02-12 22:13:00,694 :: INFO ::   > Is the person male? ? No
+2018-02-12 22:13:00,694 :: INFO ::   #> success
+2018-02-12 22:13:00,695 :: INFO :: 
+2018-02-12 22:13:00,695 :: INFO :: Dialogue 6 : 
+2018-02-12 22:13:00,695 :: INFO ::  - picture : http://mscoco.org/images/425226
+2018-02-12 22:13:00,695 :: INFO ::  - object category : bottle
+2018-02-12 22:13:00,695 :: INFO ::  - object position : 252.64, 259.84
+2018-02-12 22:13:00,695 :: INFO ::  - question/answers :
+2018-02-12 22:13:00,696 :: INFO ::   > is it a person? ? No
+2018-02-12 22:13:00,696 :: INFO ::   > is it an appliance? ? No
+2018-02-12 22:13:00,696 :: INFO ::   > is it food? ? Yes
+2018-02-12 22:13:00,696 :: INFO ::   > is it in the fridge? ? Yes
+2018-02-12 22:13:00,696 :: INFO ::   > is it in a carton? ? No
+2018-02-12 22:13:00,696 :: INFO ::   > is it in a bottle? ? Yes
+2018-02-12 22:13:00,696 :: INFO ::   > is it brown? ? Yes
+2018-02-12 22:13:00,697 :: INFO ::   #> success
+2018-02-12 22:13:00,697 :: INFO :: 
+2018-02-12 22:13:00,697 :: INFO :: Dialogue 7 : 
+2018-02-12 22:13:00,697 :: INFO ::  - picture : http://mscoco.org/images/157190
+2018-02-12 22:13:00,697 :: INFO ::  - object category : oven
+2018-02-12 22:13:00,697 :: INFO ::  - object position : 447.305, 107.41499999999999
+2018-02-12 22:13:00,697 :: INFO ::  - question/answers :
+2018-02-12 22:13:00,698 :: INFO ::   > is it on the back coutertop? ? No
+2018-02-12 22:13:00,698 :: INFO ::   > is it on the island? ? No
+2018-02-12 22:13:00,698 :: INFO ::   > is it on the walls? ? No
+2018-02-12 22:13:00,698 :: INFO ::   > is it in the cabinets? ? No
+2018-02-12 22:13:00,698 :: INFO ::   > is it a human? ? No
+2018-02-12 22:13:00,698 :: INFO ::   > is it on the windowsill? ? No
+2018-02-12 22:13:00,698 :: INFO ::   > is it an appliance? ? Yes
+2018-02-12 22:13:00,698 :: INFO ::   > does it cook things? ? Yes
+2018-02-12 22:13:00,699 :: INFO ::   #> success
+2018-02-12 22:13:00,699 :: INFO :: 
+2018-02-12 22:13:00,699 :: INFO :: Dialogue 8 : 
+2018-02-12 22:13:00,699 :: INFO ::  - picture : http://mscoco.org/images/579680
+2018-02-12 22:13:00,699 :: INFO ::  - object category : tennis racket
+2018-02-12 22:13:00,699 :: INFO ::  - object position : 324.79, 138.155
+2018-02-12 22:13:00,700 :: INFO ::  - question/answers :
+2018-02-12 22:13:00,700 :: INFO ::   > is it a guy? ? No
+2018-02-12 22:13:00,700 :: INFO ::   > is it a racket? ? Yes
+2018-02-12 22:13:00,700 :: INFO ::   > is it on the right? ? No
+2018-02-12 22:13:00,700 :: INFO ::   #> success
+2018-02-12 22:13:00,700 :: INFO :: 
+2018-02-12 22:13:00,700 :: INFO :: Dialogue 9 : 
+2018-02-12 22:13:00,701 :: INFO ::  - picture : http://mscoco.org/images/337575
+2018-02-12 22:13:00,701 :: INFO ::  - object category : oven
+2018-02-12 22:13:00,701 :: INFO ::  - object position : 272.895, 243.775
+2018-02-12 22:13:00,701 :: INFO ::  - question/answers :
+2018-02-12 22:13:00,701 :: INFO ::   > Is it an appliance? ? Yes
+2018-02-12 22:13:00,701 :: INFO ::   > It is a stove? ? Yes
+2018-02-12 22:13:00,701 :: INFO ::   #> success
+2018-02-12 22:13:00,702 :: INFO :: 
+2018-02-12 22:13:00,702 :: INFO :: Dialogue 10 : 
+2018-02-12 22:13:00,702 :: INFO ::  - picture : http://mscoco.org/images/48050
+2018-02-12 22:13:00,702 :: INFO ::  - object category : bowl
+2018-02-12 22:13:00,702 :: INFO ::  - object position : 26.815, 308.05500000000006
+2018-02-12 22:13:00,702 :: INFO ::  - question/answers :
+2018-02-12 22:13:00,702 :: INFO ::   > Is it edible? ? No
+2018-02-12 22:13:00,703 :: INFO ::   > is it flowers? ? No
+2018-02-12 22:13:00,703 :: INFO ::   > is it a knife? ? No
+2018-02-12 22:13:00,703 :: INFO ::   > is it a doll? ? No
+2018-02-12 22:13:00,703 :: INFO ::   > is it a table? ? No
+2018-02-12 22:13:00,703 :: INFO ::   > is it blue? ? No
+2018-02-12 22:13:00,703 :: INFO ::   > is it white? ? Yes
+2018-02-12 22:13:00,703 :: INFO ::   > is it round? ? Yes
+2018-02-12 22:13:00,704 :: INFO ::   #> success
+2018-02-12 22:13:00,704 :: INFO :: 
+2018-02-12 22:13:00,704 :: INFO :: Dialogue 11 : 
+2018-02-12 22:13:00,704 :: INFO ::  - picture : http://mscoco.org/images/100282
+2018-02-12 22:13:00,704 :: INFO ::  - object category : sandwich
+2018-02-12 22:13:00,704 :: INFO ::  - object position : 373.51, 216.76000000000002
+2018-02-12 22:13:00,704 :: INFO ::  - question/answers :
+2018-02-12 22:13:00,705 :: INFO ::   > Is it a dish? ? No
+2018-02-12 22:13:00,705 :: INFO ::   > Is it a food? ? Yes
+2018-02-12 22:13:00,705 :: INFO ::   > Is it a vegetable? ? No
+2018-02-12 22:13:00,705 :: INFO ::   > Is it a meat? ? Yes
+2018-02-12 22:13:00,705 :: INFO ::   #> success
+2018-02-12 22:13:00,705 :: INFO :: 
+2018-02-12 22:13:00,705 :: INFO :: Dialogue 12 : 
+2018-02-12 22:13:00,705 :: INFO ::  - picture : http://mscoco.org/images/326936
+2018-02-12 22:13:00,706 :: INFO ::  - object category : bowl
+2018-02-12 22:13:00,706 :: INFO ::  - object position : 282.785, 315.31000000000006
+2018-02-12 22:13:00,706 :: INFO ::  - question/answers :
+2018-02-12 22:13:00,706 :: INFO ::   > Is it on the floor? ? No
+2018-02-12 22:13:00,706 :: INFO ::   > Is it on the table? ? No
+2018-02-12 22:13:00,706 :: INFO ::   > Hanging on the wall? ? No
+2018-02-12 22:13:00,706 :: INFO ::   > Is it wood? ? No
+2018-02-12 22:13:00,707 :: INFO ::   > Located in a corner? ? No
+2018-02-12 22:13:00,707 :: INFO ::   #> success
+2018-02-12 22:13:00,707 :: INFO :: 
+2018-02-12 22:13:00,707 :: INFO :: Dialogue 13 : 
+2018-02-12 22:13:00,707 :: INFO ::  - picture : http://mscoco.org/images/47394
+2018-02-12 22:13:00,707 :: INFO ::  - object category : baseball glove
+2018-02-12 22:13:00,707 :: INFO ::  - object position : 279.05, 264.25
+2018-02-12 22:13:00,707 :: INFO ::  - question/answers :
+2018-02-12 22:13:00,708 :: INFO ::   > Is it a person? ? No
+2018-02-12 22:13:00,708 :: INFO ::   > Is it an object? ? Yes
+2018-02-12 22:13:00,708 :: INFO ::   > Is it made of metal? ? No
+2018-02-12 22:13:00,708 :: INFO ::   > Is it white? ? No
+2018-02-12 22:13:00,708 :: INFO ::   > Is it black? ? No
+2018-02-12 22:13:00,708 :: INFO ::   > Is it a article of clothing? ? No
+2018-02-12 22:13:00,708 :: INFO ::   > Is it dirt? ? No
+2018-02-12 22:13:00,709 :: INFO ::   > Is it maroon? ? No
+2018-02-12 22:13:00,709 :: INFO ::   > Is it a bat? ? No
+2018-02-12 22:13:00,709 :: INFO ::   > Is it green? ? No
+2018-02-12 22:13:00,709 :: INFO ::   > Is it striped? ? No
+2018-02-12 22:13:00,709 :: INFO ::   > is it large? ? No
+2018-02-12 22:13:00,709 :: INFO ::   > is it small? ? Yes
+2018-02-12 22:13:00,710 :: INFO ::   > is it shoes? ? No
+2018-02-12 22:13:00,710 :: INFO ::   > is it gloves? ? Yes
+2018-02-12 22:13:00,710 :: INFO ::   > is it a baseball glove? ? Yes
+2018-02-12 22:13:00,710 :: INFO ::   #> success
+2018-02-12 22:13:00,710 :: INFO :: 
+2018-02-12 22:13:00,710 :: INFO :: Dialogue 14 : 
+2018-02-12 22:13:00,710 :: INFO ::  - picture : http://mscoco.org/images/445433
+2018-02-12 22:13:00,711 :: INFO ::  - object category : refrigerator
+2018-02-12 22:13:00,711 :: INFO ::  - object position : 199.775, 179.82999999999996
+2018-02-12 22:13:00,711 :: INFO ::  - question/answers :
+2018-02-12 22:13:00,711 :: INFO ::   > is it an appliance? ? Yes
+2018-02-12 22:13:00,711 :: INFO ::   > is it white? ? Yes
+2018-02-12 22:13:00,711 :: INFO ::   > does it have two compartments? ? Yes
+2018-02-12 22:13:00,711 :: INFO ::   #> success
+2018-02-12 22:13:00,711 :: INFO :: 
+2018-02-12 22:13:00,711 :: INFO :: Dialogue 15 : 
+2018-02-12 22:13:00,711 :: INFO ::  - picture : http://mscoco.org/images/570390
+2018-02-12 22:13:00,711 :: INFO ::  - object category : person
+2018-02-12 22:13:00,712 :: INFO ::  - object position : 175.83499999999998, 567.7249999999999
+2018-02-12 22:13:00,712 :: INFO ::  - question/answers :
+2018-02-12 22:13:00,712 :: INFO ::   > is it a person? ? Yes
+2018-02-12 22:13:00,712 :: INFO ::   > is it on the elephant? ? Yes
+2018-02-12 22:13:00,712 :: INFO ::   > are they wearing red? ? No
+2018-02-12 22:13:00,712 :: INFO ::   > are they wearing a black hat? ? No
+2018-02-12 22:13:00,712 :: INFO ::   > are they in the front? ? No
+2018-02-12 22:13:00,712 :: INFO ::   #> success
+2018-02-12 22:13:00,713 :: INFO :: 
+2018-02-12 22:13:00,713 :: INFO :: Dialogue 16 : 
+2018-02-12 22:13:00,713 :: INFO ::  - picture : http://mscoco.org/images/554296
+2018-02-12 22:13:00,713 :: INFO ::  - object category : person
+2018-02-12 22:13:00,713 :: INFO ::  - object position : 566.63, 324.355
+2018-02-12 22:13:00,713 :: INFO ::  - question/answers :
+2018-02-12 22:13:00,713 :: INFO ::   > Is it electronic? ? No
+2018-02-12 22:13:00,714 :: INFO ::   > Is it a person? ? Yes
+2018-02-12 22:13:00,714 :: INFO ::   > Are they far away? ? No
+2018-02-12 22:13:00,714 :: INFO ::   #> success
+2018-02-12 22:13:00,714 :: INFO :: 
+2018-02-12 22:13:00,714 :: INFO :: Dialogue 17 : 
+2018-02-12 22:13:00,714 :: INFO ::  - picture : http://mscoco.org/images/314689
+2018-02-12 22:13:00,714 :: INFO ::  - object category : bowl
+2018-02-12 22:13:00,715 :: INFO ::  - object position : 29.72, 256.54499999999996
+2018-02-12 22:13:00,715 :: INFO ::  - question/answers :
+2018-02-12 22:13:00,715 :: INFO ::   > is it a child? ? No
+2018-02-12 22:13:00,715 :: INFO ::   > is it a pillow? ? No
+2018-02-12 22:13:00,715 :: INFO ::   > it is a lamp? ? No
+2018-02-12 22:13:00,715 :: INFO ::   > is it on the table with lamp? ? Yes
+2018-02-12 22:13:00,715 :: INFO ::   > is it the phone? ? No
+2018-02-12 22:13:00,716 :: INFO ::   > it is the dish? ? No
+2018-02-12 22:13:00,716 :: INFO ::   > it is alarm clock? ? No
+2018-02-12 22:13:00,716 :: INFO ::   #> success
+2018-02-12 22:13:00,716 :: INFO :: 
+2018-02-12 22:13:00,716 :: INFO :: Dialogue 18 : 
+2018-02-12 22:13:00,716 :: INFO ::  - picture : http://mscoco.org/images/300663
+2018-02-12 22:13:00,716 :: INFO ::  - object category : motorcycle
+2018-02-12 22:13:00,716 :: INFO ::  - object position : 284.705, 290.665
+2018-02-12 22:13:00,717 :: INFO ::  - question/answers :
+2018-02-12 22:13:00,717 :: INFO ::   > is it a person? ? No
+2018-02-12 22:13:00,717 :: INFO ::   > is it a motorcycle? ? Yes
+2018-02-12 22:13:00,717 :: INFO ::   > is it red? ? No
+2018-02-12 22:13:00,717 :: INFO ::   #> success
+2018-02-12 22:13:00,717 :: INFO :: 
+2018-02-12 22:13:00,718 :: INFO :: Dialogue 19 : 
+2018-02-12 22:13:00,718 :: INFO ::  - picture : http://mscoco.org/images/165253
+2018-02-12 22:13:00,718 :: INFO ::  - object category : person
+2018-02-12 22:13:00,718 :: INFO ::  - object position : 433.55, 303.865
+2018-02-12 22:13:00,718 :: INFO ::  - question/answers :
+2018-02-12 22:13:00,718 :: INFO ::   > is it alive? ? Yes
+2018-02-12 22:13:00,718 :: INFO ::   > is it a human? ? Yes
+2018-02-12 22:13:00,719 :: INFO ::   #> success
+2018-02-12 22:13:00,719 :: INFO :: 
+2018-02-12 22:13:00,719 :: INFO :: Dialogue 20 : 
+2018-02-12 22:13:00,719 :: INFO ::  - picture : http://mscoco.org/images/19413
+2018-02-12 22:13:00,719 :: INFO ::  - object category : bus
+2018-02-12 22:13:00,719 :: INFO ::  - object position : 286.995, 226.35000000000002
+2018-02-12 22:13:00,719 :: INFO ::  - question/answers :
+2018-02-12 22:13:00,720 :: INFO ::   > is it the bus? ? Yes
+2018-02-12 22:13:00,720 :: INFO ::   #> success
+2018-02-12 22:13:00,720 :: INFO :: 
+2018-02-12 22:13:00,720 :: INFO :: Dialogue 21 : 
+2018-02-12 22:13:00,720 :: INFO ::  - picture : http://mscoco.org/images/366679
+2018-02-12 22:13:00,720 :: INFO ::  - object category : tennis racket
+2018-02-12 22:13:00,720 :: INFO ::  - object position : 168.235, 362.475
+2018-02-12 22:13:00,721 :: INFO ::  - question/answers :
+2018-02-12 22:13:00,721 :: INFO ::   > is it an animal? ? No
+2018-02-12 22:13:00,721 :: INFO ::   > is it a racket? ? Yes
+2018-02-12 22:13:00,721 :: INFO ::   #> success
+2018-02-12 22:13:00,721 :: INFO :: 
+2018-02-12 22:13:00,721 :: INFO :: Dialogue 22 : 
+2018-02-12 22:13:00,721 :: INFO ::  - picture : http://mscoco.org/images/536570
+2018-02-12 22:13:00,721 :: INFO ::  - object category : person
+2018-02-12 22:13:00,722 :: INFO ::  - object position : 274.66999999999996, 239.25499999999997
+2018-02-12 22:13:00,722 :: INFO ::  - question/answers :
+2018-02-12 22:13:00,722 :: INFO ::   > is it a person? ? Yes
+2018-02-12 22:13:00,722 :: INFO ::   > is it a child? ? Yes
+2018-02-12 22:13:00,722 :: INFO ::   #> success
+2018-02-12 22:13:00,722 :: INFO :: 
+2018-02-12 22:13:00,722 :: INFO :: Dialogue 23 : 
+2018-02-12 22:13:00,722 :: INFO ::  - picture : http://mscoco.org/images/390083
+2018-02-12 22:13:00,723 :: INFO ::  - object category : bench
+2018-02-12 22:13:00,723 :: INFO ::  - object position : 111.175, 227.935
+2018-02-12 22:13:00,723 :: INFO ::  - question/answers :
+2018-02-12 22:13:00,723 :: INFO ::   > is it emitting light? ? No
+2018-02-12 22:13:00,723 :: INFO ::   > is it by the wall? ? No
+2018-02-12 22:13:00,723 :: INFO ::   > is something written on it? ? No
+2018-02-12 22:13:00,723 :: INFO ::   > do people sit on it? ? Yes
+2018-02-12 22:13:00,724 :: INFO ::   #> success
+2018-02-12 22:13:00,724 :: INFO :: 
+2018-02-12 22:13:00,724 :: INFO :: Dialogue 24 : 
+2018-02-12 22:13:00,724 :: INFO ::  - picture : http://mscoco.org/images/80040
+2018-02-12 22:13:00,724 :: INFO ::  - object category : dining table
+2018-02-12 22:13:00,724 :: INFO ::  - object position : 321.61, 241.07499999999996
+2018-02-12 22:13:00,724 :: INFO ::  - question/answers :
+2018-02-12 22:13:00,724 :: INFO ::   > Is a bowl? ? No
+2018-02-12 22:13:00,724 :: INFO ::   > Is it green? ? No
+2018-02-12 22:13:00,725 :: INFO ::   > Is it in a bowl? ? No
+2018-02-12 22:13:00,725 :: INFO ::   > Is it on a plate? ? No
+2018-02-12 22:13:00,725 :: INFO ::   > Is it glass? ? No
+2018-02-12 22:13:00,725 :: INFO ::   > Is it brown? ? Yes
+2018-02-12 22:13:00,725 :: INFO ::   > Is it made of wood? ? Yes
+2018-02-12 22:13:00,725 :: INFO ::   #> success
+2018-02-12 22:13:00,725 :: INFO :: 
+2018-02-12 22:13:00,725 :: INFO :: Dialogue 25 : 
+2018-02-12 22:13:00,725 :: INFO ::  - picture : http://mscoco.org/images/256945
+2018-02-12 22:13:00,726 :: INFO ::  - object category : sandwich
+2018-02-12 22:13:00,726 :: INFO ::  - object position : 200.915, 306.74
+2018-02-12 22:13:00,726 :: INFO ::  - question/answers :
+2018-02-12 22:13:00,726 :: INFO ::   > Is it considered food? ? Yes
+2018-02-12 22:13:00,726 :: INFO ::   > Is it yellow? ? No
+2018-02-12 22:13:00,726 :: INFO ::   > Does it have lettuce on it? ? Yes
+2018-02-12 22:13:00,726 :: INFO ::   #> success
+2018-02-12 22:13:00,726 :: INFO :: 
+2018-02-12 22:13:00,726 :: INFO :: Dialogue 26 : 
+2018-02-12 22:13:00,727 :: INFO ::  - picture : http://mscoco.org/images/449384
+2018-02-12 22:13:00,727 :: INFO ::  - object category : person
+2018-02-12 22:13:00,727 :: INFO ::  - object position : 374.28999999999996, 172.045
+2018-02-12 22:13:00,727 :: INFO ::  - question/answers :
+2018-02-12 22:13:00,727 :: INFO ::   > is it a piece of clothing? ? No
+2018-02-12 22:13:00,727 :: INFO ::   > is it a vehicle? ? No
+2018-02-12 22:13:00,727 :: INFO ::   > is it a bag? ? No
+2018-02-12 22:13:00,727 :: INFO ::   > is it an umbrella? ? No
+2018-02-12 22:13:00,727 :: INFO ::   > is it a sign? ? No
+2018-02-12 22:13:00,728 :: INFO ::   > is it a tree? ? No
+2018-02-12 22:13:00,728 :: INFO ::   > is it in the background? ? No
+2018-02-12 22:13:00,728 :: INFO ::   > is it a sidewalk? ? No
+2018-02-12 22:13:00,728 :: INFO ::   > is it a person? ? Yes
+2018-02-12 22:13:00,728 :: INFO ::   > is it a child? ? Yes
+2018-02-12 22:13:00,728 :: INFO ::   #> success
+2018-02-12 22:13:00,728 :: INFO :: 
+2018-02-12 22:13:00,728 :: INFO :: Dialogue 27 : 
+2018-02-12 22:13:00,728 :: INFO ::  - picture : http://mscoco.org/images/217272
+2018-02-12 22:13:00,729 :: INFO ::  - object category : knife
+2018-02-12 22:13:00,729 :: INFO ::  - object position : 439.53, 251.61
+2018-02-12 22:13:00,730 :: INFO ::  - question/answers :
+2018-02-12 22:13:00,731 :: INFO ::   > is it food? ? No
+2018-02-12 22:13:00,731 :: INFO ::   > is it a drink? ? No
+2018-02-12 22:13:00,731 :: INFO ::   > is it a knife? ? Yes
+2018-02-12 22:13:00,731 :: INFO ::   #> success
+2018-02-12 22:13:00,731 :: INFO :: 
+2018-02-12 22:13:00,731 :: INFO :: Dialogue 28 : 
+2018-02-12 22:13:00,731 :: INFO ::  - picture : http://mscoco.org/images/437452
+2018-02-12 22:13:00,732 :: INFO ::  - object category : laptop
+2018-02-12 22:13:00,732 :: INFO ::  - object position : 151.665, 241.58
+2018-02-12 22:13:00,732 :: INFO ::  - question/answers :
+2018-02-12 22:13:00,732 :: INFO ::   > is it the laptop? ? Yes
+2018-02-12 22:13:00,732 :: INFO ::   #> success
+2018-02-12 22:13:00,732 :: INFO :: 
+2018-02-12 22:13:00,732 :: INFO :: Dialogue 29 : 
+2018-02-12 22:13:00,733 :: INFO ::  - picture : http://mscoco.org/images/80916
+2018-02-12 22:13:00,733 :: INFO ::  - object category : bottle
+2018-02-12 22:13:00,733 :: INFO ::  - object position : 85.475, 184.165
+2018-02-12 22:13:00,733 :: INFO ::  - question/answers :
+2018-02-12 22:13:00,733 :: INFO ::   > is it white? ? No
+2018-02-12 22:13:00,733 :: INFO ::   > is it blue? ? No
+2018-02-12 22:13:00,733 :: INFO ::   > is it black? ? No
+2018-02-12 22:13:00,734 :: INFO ::   > is it a container? ? Yes
+2018-02-12 22:13:00,734 :: INFO ::   > is it red and green? ? Yes
+2018-02-12 22:13:00,734 :: INFO ::   #> success
+2018-02-12 22:13:00,734 :: INFO :: 
+2018-02-12 22:13:00,734 :: INFO :: Dialogue 30 : 
+2018-02-12 22:13:00,734 :: INFO ::  - picture : http://mscoco.org/images/197245
+2018-02-12 22:13:00,735 :: INFO ::  - object category : cat
+2018-02-12 22:13:00,735 :: INFO ::  - object position : 357.295, 188.57000000000002
+2018-02-12 22:13:00,735 :: INFO ::  - question/answers :
+2018-02-12 22:13:00,735 :: INFO ::   > Is it an animal? ? Yes
+2018-02-12 22:13:00,735 :: INFO ::   #> success
+2018-02-12 22:13:00,735 :: INFO :: 
+2018-02-12 22:13:00,735 :: INFO :: Dialogue 31 : 
+2018-02-12 22:13:00,736 :: INFO ::  - picture : http://mscoco.org/images/422152
+2018-02-12 22:13:00,736 :: INFO ::  - object category : bed
+2018-02-12 22:13:00,736 :: INFO ::  - object position : 250.42499999999998, 154.335
+2018-02-12 22:13:00,736 :: INFO ::  - question/answers :
+2018-02-12 22:13:00,736 :: INFO ::   > is it a dog? ? No
+2018-02-12 22:13:00,736 :: INFO ::   > is it the blanket? ? Yes
+2018-02-12 22:13:00,736 :: INFO ::   #> success
+2018-02-12 22:13:00,737 :: INFO :: 
+2018-02-12 22:13:00,737 :: INFO :: Dialogue 32 : 
+2018-02-12 22:13:00,737 :: INFO ::  - picture : http://mscoco.org/images/154835
+2018-02-12 22:13:00,737 :: INFO ::  - object category : tie
+2018-02-12 22:13:00,737 :: INFO ::  - object position : 229.35, 495.67499999999995
+2018-02-12 22:13:00,737 :: INFO ::  - question/answers :
+2018-02-12 22:13:00,738 :: INFO ::   > Is it metal? ? No
+2018-02-12 22:13:00,738 :: INFO ::   > Is the person wearing it? ? Yes
+2018-02-12 22:13:00,738 :: INFO ::   > is it on his legs? ? No
+2018-02-12 22:13:00,738 :: INFO ::   > is it on his face? ? No
+2018-02-12 22:13:00,738 :: INFO ::   > Is it part of his jacket? ? No
+2018-02-12 22:13:00,738 :: INFO ::   > Is it around his neck? ? Yes
+2018-02-12 22:13:00,738 :: INFO ::   #> success
+2018-02-12 22:13:00,739 :: INFO :: 
+2018-02-12 22:13:00,739 :: INFO :: Dialogue 33 : 
+2018-02-12 22:13:00,739 :: INFO ::  - picture : http://mscoco.org/images/123916
+2018-02-12 22:13:00,739 :: INFO ::  - object category : umbrella
+2018-02-12 22:13:00,739 :: INFO ::  - object position : 365.105, 238.925
+2018-02-12 22:13:00,739 :: INFO ::  - question/answers :
+2018-02-12 22:13:00,740 :: INFO ::   > it is used on a rainy day? ? Yes
+2018-02-12 22:13:00,740 :: INFO ::   #> success
+2018-02-12 22:13:00,740 :: INFO :: 
+2018-02-12 22:13:00,740 :: INFO :: Dialogue 34 : 
+2018-02-12 22:13:00,740 :: INFO ::  - picture : http://mscoco.org/images/267435
+2018-02-12 22:13:00,740 :: INFO ::  - object category : donut
+2018-02-12 22:13:00,740 :: INFO ::  - object position : 200.79500000000002, 289.54499999999996
+2018-02-12 22:13:00,741 :: INFO ::  - question/answers :
+2018-02-12 22:13:00,741 :: INFO ::   > Is it a person? ? No
+2018-02-12 22:13:00,741 :: INFO ::   > Is the main color of the object white? ? No
+2018-02-12 22:13:00,741 :: INFO ::   > Is the object on the table? ? No
+2018-02-12 22:13:00,741 :: INFO ::   > Is the object behind the people? ? No
+2018-02-12 22:13:00,741 :: INFO ::   > Is the object being held by a person? ? Yes
+2018-02-12 22:13:00,741 :: INFO ::   #> success
+2018-02-12 22:13:00,742 :: INFO :: 
+2018-02-12 22:13:00,742 :: INFO :: Dialogue 35 : 
+2018-02-12 22:13:00,742 :: INFO ::  - picture : http://mscoco.org/images/389451
+2018-02-12 22:13:00,742 :: INFO ::  - object category : person
+2018-02-12 22:13:00,742 :: INFO ::  - object position : 328.12, 328.42499999999995
+2018-02-12 22:13:00,742 :: INFO ::  - question/answers :
+2018-02-12 22:13:00,742 :: INFO ::   > is it the boat? ? No
+2018-02-12 22:13:00,743 :: INFO ::   > is it a goat? ? No
+2018-02-12 22:13:00,743 :: INFO ::   > is it a person? ? Yes
+2018-02-12 22:13:00,743 :: INFO ::   > is it on the left? ? No
+2018-02-12 22:13:00,743 :: INFO ::   > is it black? ? No
+2018-02-12 22:13:00,743 :: INFO ::   > is it in the boat? ? Yes
+2018-02-12 22:13:00,743 :: INFO ::   #> success
+2018-02-12 22:13:00,743 :: INFO :: 
+2018-02-12 22:13:00,744 :: INFO :: Dialogue 36 : 
+2018-02-12 22:13:00,744 :: INFO ::  - picture : http://mscoco.org/images/114786
+2018-02-12 22:13:00,744 :: INFO ::  - object category : person
+2018-02-12 22:13:00,744 :: INFO ::  - object position : 91.53, 458.38
+2018-02-12 22:13:00,744 :: INFO ::  - question/answers :
+2018-02-12 22:13:00,744 :: INFO ::   > Is it a human? ? Yes
+2018-02-12 22:13:00,744 :: INFO ::   > Is it a child? ? Yes
+2018-02-12 22:13:00,745 :: INFO ::   #> success
+2018-02-12 22:13:00,745 :: INFO :: 
+2018-02-12 22:13:00,745 :: INFO :: Dialogue 37 : 
+2018-02-12 22:13:00,745 :: INFO ::  - picture : http://mscoco.org/images/72843
+2018-02-12 22:13:00,745 :: INFO ::  - object category : bus
+2018-02-12 22:13:00,745 :: INFO ::  - object position : 96.46000000000001, 51.19999999999995
+2018-02-12 22:13:00,746 :: INFO ::  - question/answers :
+2018-02-12 22:13:00,746 :: INFO ::   > Is it a building? ? No
+2018-02-12 22:13:00,746 :: INFO ::   > Is it a bus? ? Yes
+2018-02-12 22:13:00,746 :: INFO ::   > Is it blurry? ? Yes
+2018-02-12 22:13:00,747 :: INFO ::   #> success
+2018-02-12 22:13:00,747 :: INFO :: 
+2018-02-12 22:13:00,747 :: INFO :: Dialogue 38 : 
+2018-02-12 22:13:00,747 :: INFO ::  - picture : http://mscoco.org/images/129631
+2018-02-12 22:13:00,747 :: INFO ::  - object category : horse
+2018-02-12 22:13:00,747 :: INFO ::  - object position : 159.46, 298.87
+2018-02-12 22:13:00,747 :: INFO ::  - question/answers :
+2018-02-12 22:13:00,748 :: INFO ::   > Is it large? ? Yes
+2018-02-12 22:13:00,748 :: INFO ::   #> success
+2018-02-12 22:13:00,748 :: INFO :: 
+2018-02-12 22:13:00,748 :: INFO :: Dialogue 39 : 
+2018-02-12 22:13:00,748 :: INFO ::  - picture : http://mscoco.org/images/428787
+2018-02-12 22:13:00,749 :: INFO ::  - object category : horse
+2018-02-12 22:13:00,749 :: INFO ::  - object position : 485.71500000000003, 221.51000000000002
+2018-02-12 22:13:00,749 :: INFO ::  - question/answers :
+2018-02-12 22:13:00,749 :: INFO ::   > Is it an animal? ? Yes
+2018-02-12 22:13:00,749 :: INFO ::   > Is it wearing a dress? ? No
+2018-02-12 22:13:00,749 :: INFO ::   > Does it have a bow tie? ? No
+2018-02-12 22:13:00,749 :: INFO ::   > Does it have a harness? ? Yes
+2018-02-12 22:13:00,749 :: INFO ::   #> success
+2018-02-12 22:13:00,749 :: INFO :: 
+2018-02-12 22:13:00,749 :: INFO :: Dialogue 40 : 
+2018-02-12 22:13:00,750 :: INFO ::  - picture : http://mscoco.org/images/471825
+2018-02-12 22:13:00,750 :: INFO ::  - object category : tennis racket
+2018-02-12 22:13:00,750 :: INFO ::  - object position : 61.17, 276.1
+2018-02-12 22:13:00,750 :: INFO ::  - question/answers :
+2018-02-12 22:13:00,750 :: INFO ::   > Is it a human? ? No
+2018-02-12 22:13:00,750 :: INFO ::   > Is it yellow/almost yellow? ? No
+2018-02-12 22:13:00,750 :: INFO ::   > Is it a clothing/apparel item? ? No
+2018-02-12 22:13:00,750 :: INFO ::   > Is it an ad banner? ? No
+2018-02-12 22:13:00,751 :: INFO ::   > Is it in the bottom half of the image? ? Yes
+2018-02-12 22:13:00,751 :: INFO ::   > Is it a tennis playing equipment piece? ? Yes
+2018-02-12 22:13:00,751 :: INFO ::   #> success
+2018-02-12 22:13:00,751 :: INFO :: 
+2018-02-12 22:13:00,752 :: INFO :: Dialogue 41 : 
+2018-02-12 22:13:00,752 :: INFO ::  - picture : http://mscoco.org/images/440707
+2018-02-12 22:13:00,752 :: INFO ::  - object category : truck
+2018-02-12 22:13:00,752 :: INFO ::  - object position : 87.445, 81.975
+2018-02-12 22:13:00,753 :: INFO ::  - question/answers :
+2018-02-12 22:13:00,753 :: INFO ::   > is it a number? ? No
+2018-02-12 22:13:00,753 :: INFO ::   > is it a person? ? No
+2018-02-12 22:13:00,754 :: INFO ::   > is it a car? ? Yes
+2018-02-12 22:13:00,754 :: INFO ::   #> success
+2018-02-12 22:13:00,754 :: INFO :: 
+2018-02-12 22:13:00,754 :: INFO :: Dialogue 42 : 
+2018-02-12 22:13:00,754 :: INFO ::  - picture : http://mscoco.org/images/136833
+2018-02-12 22:13:00,754 :: INFO ::  - object category : motorcycle
+2018-02-12 22:13:00,755 :: INFO ::  - object position : 253.67000000000002, 111.67999999999999
+2018-02-12 22:13:00,755 :: INFO ::  - question/answers :
+2018-02-12 22:13:00,755 :: INFO ::   > Is it a person? ? No
+2018-02-12 22:13:00,755 :: INFO ::   > Is it in the foreground? ? Yes
+2018-02-12 22:13:00,755 :: INFO ::   > Is it a vehicle? ? Yes
+2018-02-12 22:13:00,756 :: INFO ::   > Is the full vehicle visible? ? No
+2018-02-12 22:13:00,756 :: INFO ::   #> success
+2018-02-12 22:13:00,756 :: INFO :: 
+2018-02-12 22:13:00,756 :: INFO :: Dialogue 43 : 
+2018-02-12 22:13:00,756 :: INFO ::  - picture : http://mscoco.org/images/306733
+2018-02-12 22:13:00,756 :: INFO ::  - object category : bottle
+2018-02-12 22:13:00,757 :: INFO ::  - object position : 594.3050000000001, 82.35499999999999
+2018-02-12 22:13:00,757 :: INFO ::  - question/answers :
+2018-02-12 22:13:00,757 :: INFO ::   > is it a plant? ? No
+2018-02-12 22:13:00,757 :: INFO ::   > is it on the wall? ? No
+2018-02-12 22:13:00,757 :: INFO ::   > is it reflected in the mirror? ? No
+2018-02-12 22:13:00,757 :: INFO ::   > does it contain a picture? ? No
+2018-02-12 22:13:00,758 :: INFO ::   > is it by the tub? ? Yes
+2018-02-12 22:13:00,758 :: INFO ::   > is it a bottle? ? Yes
+2018-02-12 22:13:00,758 :: INFO ::   > is it closer to the faucet? ? No
+2018-02-12 22:13:00,758 :: INFO ::   #> success
+2018-02-12 22:13:00,758 :: INFO :: 
+2018-02-12 22:13:00,758 :: INFO :: Dialogue 44 : 
+2018-02-12 22:13:00,758 :: INFO ::  - picture : http://mscoco.org/images/41818
+2018-02-12 22:13:00,759 :: INFO ::  - object category : oven
+2018-02-12 22:13:00,759 :: INFO ::  - object position : 319.735, 97.53
+2018-02-12 22:13:00,759 :: INFO ::  - question/answers :
+2018-02-12 22:13:00,759 :: INFO ::   > Is it a liquid? ? No
+2018-02-12 22:13:00,759 :: INFO ::   > Is it a person? ? No
+2018-02-12 22:13:00,759 :: INFO ::   > Is it in the background? ? Yes
+2018-02-12 22:13:00,760 :: INFO ::   > Is it on the left side? ? No
+2018-02-12 22:13:00,760 :: INFO ::   > Is it in between the people? ? Yes
+2018-02-12 22:13:00,760 :: INFO ::   > Is it the oven? ? Yes
+2018-02-12 22:13:00,760 :: INFO ::   #> success
+2018-02-12 22:13:00,760 :: INFO :: 
+2018-02-12 22:13:00,761 :: INFO :: Dialogue 45 : 
+2018-02-12 22:13:00,761 :: INFO ::  - picture : http://mscoco.org/images/288408
+2018-02-12 22:13:00,761 :: INFO ::  - object category : snowboard
+2018-02-12 22:13:00,761 :: INFO ::  - object position : 293.16499999999996, 120.74499999999998
+2018-02-12 22:13:00,764 :: INFO ::  - question/answers :
+2018-02-12 22:13:00,764 :: INFO ::   > Is is a person? ? No
+2018-02-12 22:13:00,765 :: INFO ::   > Is it on the floor? ? Yes
+2018-02-12 22:13:00,765 :: INFO ::   > is the person standing on it? ? Yes
+2018-02-12 22:13:00,765 :: INFO ::   > is the main color of it white? ? Yes
+2018-02-12 22:13:00,765 :: INFO ::   #> success
+2018-02-12 22:13:00,765 :: INFO :: 
+2018-02-12 22:13:00,765 :: INFO :: Dialogue 46 : 
+2018-02-12 22:13:00,765 :: INFO ::  - picture : http://mscoco.org/images/523807
+2018-02-12 22:13:00,765 :: INFO ::  - object category : person
+2018-02-12 22:13:00,765 :: INFO ::  - object position : 455.08000000000004, 151.855
+2018-02-12 22:13:00,766 :: INFO ::  - question/answers :
+2018-02-12 22:13:00,766 :: INFO ::   > is it food? ? No
+2018-02-12 22:13:00,766 :: INFO ::   > is it a bottle? ? No
+2018-02-12 22:13:00,766 :: INFO ::   > is it a sauce? ? No
+2018-02-12 22:13:00,766 :: INFO ::   > is it a container? ? No
+2018-02-12 22:13:00,766 :: INFO ::   > is it a table? ? No
+2018-02-12 22:13:00,766 :: INFO ::   #> success
+2018-02-12 22:13:00,766 :: INFO :: 
+2018-02-12 22:13:00,766 :: INFO :: Dialogue 47 : 
+2018-02-12 22:13:00,766 :: INFO ::  - picture : http://mscoco.org/images/72797
+2018-02-12 22:13:00,767 :: INFO ::  - object category : sports ball
+2018-02-12 22:13:00,767 :: INFO ::  - object position : 316.755, 308.96
+2018-02-12 22:13:00,767 :: INFO ::  - question/answers :
+2018-02-12 22:13:00,767 :: INFO ::   > is it a person? ? No
+2018-02-12 22:13:00,767 :: INFO ::   > can you hit a ball with it? ? No
+2018-02-12 22:13:00,767 :: INFO ::   > is it yellowish green? ? Yes
+2018-02-12 22:13:00,767 :: INFO ::   #> success
+2018-02-12 22:13:00,767 :: INFO :: 
+2018-02-12 22:13:00,767 :: INFO :: Dialogue 48 : 
+2018-02-12 22:13:00,767 :: INFO ::  - picture : http://mscoco.org/images/202740
+2018-02-12 22:13:00,767 :: INFO ::  - object category : laptop
+2018-02-12 22:13:00,768 :: INFO ::  - object position : 232.165, 84.27
+2018-02-12 22:13:00,768 :: INFO ::  - question/answers :
+2018-02-12 22:13:00,768 :: INFO ::   > is it an electronic? ? Yes
+2018-02-12 22:13:00,768 :: INFO ::   #> success
+2018-02-12 22:13:00,768 :: INFO :: 
+2018-02-12 22:13:00,768 :: INFO :: Dialogue 49 : 
+2018-02-12 22:13:00,768 :: INFO ::  - picture : http://mscoco.org/images/528466
+2018-02-12 22:13:00,768 :: INFO ::  - object category : knife
+2018-02-12 22:13:00,769 :: INFO ::  - object position : 309.935, 32.260000000000005
+2018-02-12 22:13:00,769 :: INFO ::  - question/answers :
+2018-02-12 22:13:00,769 :: INFO ::   > Is it food? ? No
+2018-02-12 22:13:00,769 :: INFO ::   > Is it a utensil? ? Yes
+2018-02-12 22:13:00,769 :: INFO ::   > Is it the wooden spoon? ? No
+2018-02-12 22:13:00,769 :: INFO ::   > Is it the knife? ? Yes
+2018-02-12 22:13:00,769 :: INFO ::   #> success
+2018-02-12 22:13:00,769 :: INFO :: 
+2018-02-12 22:13:00,769 :: INFO :: Dialogue 50 : 
+2018-02-12 22:13:00,769 :: INFO ::  - picture : http://mscoco.org/images/504534
+2018-02-12 22:13:00,769 :: INFO ::  - object category : person
+2018-02-12 22:13:00,771 :: INFO ::  - object position : 413.83, 179.47
+2018-02-12 22:13:00,771 :: INFO ::  - question/answers :
+2018-02-12 22:13:00,772 :: INFO ::   > is it a person? ? Yes
+2018-02-12 22:13:00,772 :: INFO ::   > is he on the right? ? Yes
+2018-02-12 22:13:00,772 :: INFO ::   #> success
+2018-02-12 22:13:00,772 :: INFO :: 
+2018-02-12 22:13:00,772 :: INFO :: Dialogue 51 : 
+2018-02-12 22:13:00,772 :: INFO ::  - picture : http://mscoco.org/images/1888
+2018-02-12 22:13:00,772 :: INFO ::  - object category : apple
+2018-02-12 22:13:00,772 :: INFO ::  - object position : 63.8, 111.52000000000001
+2018-02-12 22:13:00,773 :: INFO ::  - question/answers :
+2018-02-12 22:13:00,773 :: INFO ::   > is it meat? ? No
+2018-02-12 22:13:00,773 :: INFO ::   > Is it an apple? ? Yes
+2018-02-12 22:13:00,773 :: INFO ::   #> success
+2018-02-12 22:13:00,773 :: INFO :: 
+2018-02-12 22:13:00,773 :: INFO :: Dialogue 52 : 
+2018-02-12 22:13:00,773 :: INFO ::  - picture : http://mscoco.org/images/309086
+2018-02-12 22:13:00,774 :: INFO ::  - object category : person
+2018-02-12 22:13:00,774 :: INFO ::  - object position : 99.045, 189.845
+2018-02-12 22:13:00,774 :: INFO ::  - question/answers :
+2018-02-12 22:13:00,774 :: INFO ::   > Is it a person? ? Yes
+2018-02-12 22:13:00,774 :: INFO ::   > Is he wearing a white shirt? ? Yes
+2018-02-12 22:13:00,774 :: INFO ::   > are his arms crossed? ? No
+2018-02-12 22:13:00,774 :: INFO ::   #> success
+2018-02-12 22:13:00,774 :: INFO :: 
+2018-02-12 22:13:00,775 :: INFO :: Dialogue 53 : 
+2018-02-12 22:13:00,775 :: INFO ::  - picture : http://mscoco.org/images/512403
+2018-02-12 22:13:00,775 :: INFO ::  - object category : vase
+2018-02-12 22:13:00,775 :: INFO ::  - object position : 440.68, 159.88
+2018-02-12 22:13:00,775 :: INFO ::  - question/answers :
+2018-02-12 22:13:00,775 :: INFO ::   > Was it ever a part of a bird? ? No
+2018-02-12 22:13:00,775 :: INFO ::   > Does it have a painting on it? ? Yes
+2018-02-12 22:13:00,776 :: INFO ::   > Is it a book? ? No
+2018-02-12 22:13:00,776 :: INFO ::   > Is it a vase? ? Yes
+2018-02-12 22:13:00,776 :: INFO ::   #> success
+2018-02-12 22:13:00,776 :: INFO :: 
+2018-02-12 22:13:00,776 :: INFO :: Dialogue 54 : 
+2018-02-12 22:13:00,776 :: INFO ::  - picture : http://mscoco.org/images/80522
+2018-02-12 22:13:00,776 :: INFO ::  - object category : truck
+2018-02-12 22:13:00,776 :: INFO ::  - object position : 416.695, 276.545
+2018-02-12 22:13:00,777 :: INFO ::  - question/answers :
+2018-02-12 22:13:00,777 :: INFO ::   > person place or thing? ? N/A
+2018-02-12 22:13:00,777 :: INFO ::   > is it a person? ? No
+2018-02-12 22:13:00,777 :: INFO ::   > is it an animal? ? No
+2018-02-12 22:13:00,777 :: INFO ::   > is it a vehicle? ? Yes
+2018-02-12 22:13:00,777 :: INFO ::   > is it 4 wheels? ? Yes
+2018-02-12 22:13:00,777 :: INFO ::   #> success
+2018-02-12 22:13:00,778 :: INFO :: 
+2018-02-12 22:13:00,778 :: INFO :: Dialogue 55 : 
+2018-02-12 22:13:00,778 :: INFO ::  - picture : http://mscoco.org/images/120642
+2018-02-12 22:13:00,778 :: INFO ::  - object category : bicycle
+2018-02-12 22:13:00,778 :: INFO ::  - object position : 6.795, 66.37
+2018-02-12 22:13:00,778 :: INFO ::  - question/answers :
+2018-02-12 22:13:00,778 :: INFO ::   > Is it a sign? ? No
+2018-02-12 22:13:00,779 :: INFO ::   > Is it white? ? No
+2018-02-12 22:13:00,779 :: INFO ::   > Is it on the street? ? Yes
+2018-02-12 22:13:00,779 :: INFO ::   > Is it black? ? Yes
+2018-02-12 22:13:00,779 :: INFO ::   > Is it on the left? ? Yes
+2018-02-12 22:13:00,779 :: INFO ::   > Is it rectangular? ? No
+2018-02-12 22:13:00,779 :: INFO ::   > Is it a post? ? No
+2018-02-12 22:13:00,779 :: INFO ::   > Is it a light? ? No
+2018-02-12 22:13:00,779 :: INFO ::   #> success
+2018-02-12 22:13:00,780 :: INFO :: 
+2018-02-12 22:13:00,780 :: INFO :: Dialogue 56 : 
+2018-02-12 22:13:00,780 :: INFO ::  - picture : http://mscoco.org/images/18450
+2018-02-12 22:13:00,780 :: INFO ::  - object category : person
+2018-02-12 22:13:00,780 :: INFO ::  - object position : 375.805, 584.64
+2018-02-12 22:13:00,780 :: INFO ::  - question/answers :
+2018-02-12 22:13:00,781 :: INFO ::   > Is the object in the background? ? No
+2018-02-12 22:13:00,781 :: INFO ::   > Is the object fully visible? ? No
+2018-02-12 22:13:00,781 :: INFO ::   > Does the object have a blue band on it? ? Yes
+2018-02-12 22:13:00,781 :: INFO ::   #> success
+2018-02-12 22:13:00,781 :: INFO :: 
+2018-02-12 22:13:00,781 :: INFO :: Dialogue 57 : 
+2018-02-12 22:13:00,781 :: INFO ::  - picture : http://mscoco.org/images/99810
+2018-02-12 22:13:00,782 :: INFO ::  - object category : donut
+2018-02-12 22:13:00,782 :: INFO ::  - object position : 399.90500000000003, 50.58999999999999
+2018-02-12 22:13:00,782 :: INFO ::  - question/answers :
+2018-02-12 22:13:00,782 :: INFO ::   > Is it a person? ? No
+2018-02-12 22:13:00,782 :: INFO ::   > Is it a doughnut hole? ? Yes
+2018-02-12 22:13:00,783 :: INFO ::   > Is it on the plate? ? Yes
+2018-02-12 22:13:00,783 :: INFO ::   > is it in the row closer to the boy? ? Yes
+2018-02-12 22:13:00,783 :: INFO ::   > is it to the left when facing the boy? ? No
+2018-02-12 22:13:00,784 :: INFO ::   #> success
+2018-02-12 22:13:00,784 :: INFO :: 
+2018-02-12 22:13:00,784 :: INFO :: Dialogue 58 : 
+2018-02-12 22:13:00,784 :: INFO ::  - picture : http://mscoco.org/images/473055
+2018-02-12 22:13:00,784 :: INFO ::  - object category : bottle
+2018-02-12 22:13:00,785 :: INFO ::  - object position : 630.4449999999999, 41.08000000000003
+2018-02-12 22:13:00,785 :: INFO ::  - question/answers :
+2018-02-12 22:13:00,785 :: INFO ::   > is it an object? ? Yes
+2018-02-12 22:13:00,785 :: INFO ::   > is it a brush? ? No
+2018-02-12 22:13:00,786 :: INFO ::   > is it a towel? ? No
+2018-02-12 22:13:00,786 :: INFO ::   > is it soap? ? Yes
+2018-02-12 22:13:00,786 :: INFO ::   #> success
+2018-02-12 22:13:00,786 :: INFO :: 
+2018-02-12 22:13:00,787 :: INFO :: Dialogue 59 : 
+2018-02-12 22:13:00,787 :: INFO ::  - picture : http://mscoco.org/images/364992
+2018-02-12 22:13:00,787 :: INFO ::  - object category : train
+2018-02-12 22:13:00,787 :: INFO ::  - object position : 294.75, 260.96
+2018-02-12 22:13:00,787 :: INFO ::  - question/answers :
+2018-02-12 22:13:00,787 :: INFO ::   > does it move? ? Yes
+2018-02-12 22:13:00,788 :: INFO ::   #> success
+2018-02-12 22:13:00,788 :: INFO :: 
+2018-02-12 22:13:00,788 :: INFO :: Dialogue 60 : 
+2018-02-12 22:13:00,788 :: INFO ::  - picture : http://mscoco.org/images/151567
+2018-02-12 22:13:00,788 :: INFO ::  - object category : person
+2018-02-12 22:13:00,788 :: INFO ::  - object position : 176.57000000000002, 385.54
+2018-02-12 22:13:00,788 :: INFO ::  - question/answers :
+2018-02-12 22:13:00,789 :: INFO ::   > Is it an animal? ? No
+2018-02-12 22:13:00,789 :: INFO ::   > Is it a liquid? ? No
+2018-02-12 22:13:00,789 :: INFO ::   > Does it hold water? ? No
+2018-02-12 22:13:00,789 :: INFO ::   > Is it a person? ? Yes
+2018-02-12 22:13:00,789 :: INFO ::   #> success
+2018-02-12 22:13:00,789 :: INFO :: 
+2018-02-12 22:13:00,789 :: INFO :: Dialogue 61 : 
+2018-02-12 22:13:00,790 :: INFO ::  - picture : http://mscoco.org/images/249764
+2018-02-12 22:13:00,790 :: INFO ::  - object category : hair drier
+2018-02-12 22:13:00,790 :: INFO ::  - object position : 451.265, 287.47
+2018-02-12 22:13:00,790 :: INFO ::  - question/answers :
+2018-02-12 22:13:00,790 :: INFO ::   > Is the object a person? ? No
+2018-02-12 22:13:00,790 :: INFO ::   > Is the person holding the object? ? Yes
+2018-02-12 22:13:00,790 :: INFO ::   #> success
+2018-02-12 22:13:00,791 :: INFO :: 
+2018-02-12 22:13:00,791 :: INFO :: Dialogue 62 : 
+2018-02-12 22:13:00,791 :: INFO ::  - picture : http://mscoco.org/images/479944
+2018-02-12 22:13:00,791 :: INFO ::  - object category : scissors
+2018-02-12 22:13:00,791 :: INFO ::  - object position : 97.01, 216.01999999999998
+2018-02-12 22:13:00,791 :: INFO ::  - question/answers :
+2018-02-12 22:13:00,791 :: INFO ::   > is it a person? ? No
+2018-02-12 22:13:00,792 :: INFO ::   > is it being held by a person? ? Yes
+2018-02-12 22:13:00,792 :: INFO ::   #> success
+2018-02-12 22:13:00,792 :: INFO :: 
+2018-02-12 22:13:00,792 :: INFO :: Dialogue 63 : 
+2018-02-12 22:13:00,792 :: INFO ::  - picture : http://mscoco.org/images/28674
+2018-02-12 22:13:00,792 :: INFO ::  - object category : chair
+2018-02-12 22:13:00,792 :: INFO ::  - object position : 52.645, 88.41499999999998
+2018-02-12 22:13:00,792 :: INFO ::  - question/answers :
+2018-02-12 22:13:00,793 :: INFO ::   > is it a person? ? No
+2018-02-12 22:13:00,793 :: INFO ::   > is it an electronic? ? No
+2018-02-12 22:13:00,793 :: INFO ::   > is it a pen? ? No
+2018-02-12 22:13:00,793 :: INFO ::   > is it a crutch? ? No
+2018-02-12 22:13:00,793 :: INFO ::   > is it a chair? ? Yes
+2018-02-12 22:13:00,793 :: INFO ::   #> success
+2018-02-12 22:13:00,793 :: INFO :: 
+2018-02-12 22:13:00,794 :: INFO :: Dialogue 64 : 
+2018-02-12 22:13:00,794 :: INFO ::  - picture : http://mscoco.org/images/368205
+2018-02-12 22:13:00,794 :: INFO ::  - object category : cow
+2018-02-12 22:13:00,794 :: INFO ::  - object position : 363.885, 205.725
+2018-02-12 22:13:00,794 :: INFO ::  - question/answers :
+2018-02-12 22:13:00,794 :: INFO ::   > Is it an animal? ? Yes
+2018-02-12 22:13:00,794 :: INFO ::   > Is it the darker colored cow? ? Yes
+2018-02-12 22:13:00,794 :: INFO ::   #> success
+2018-02-12 22:13:00,795 :: INFO :: 
+2018-02-12 22:13:00,795 :: INFO :: Dialogue 65 : 
+2018-02-12 22:13:00,795 :: INFO ::  - picture : http://mscoco.org/images/19783
+2018-02-12 22:13:00,795 :: INFO ::  - object category : donut
+2018-02-12 22:13:00,795 :: INFO ::  - object position : 236.47, 233.505
+2018-02-12 22:13:00,795 :: INFO ::  - question/answers :
+2018-02-12 22:13:00,795 :: INFO ::   > is it a bird? ? No
+2018-02-12 22:13:00,796 :: INFO ::   > is it in the water? ? No
+2018-02-12 22:13:00,796 :: INFO ::   > is it the persons arm? ? No
+2018-02-12 22:13:00,796 :: INFO ::   > is it in a bird beak? ? Yes
+2018-02-12 22:13:00,796 :: INFO ::   #> success
+2018-02-12 22:13:00,796 :: INFO :: 
+2018-02-12 22:13:00,796 :: INFO :: Dialogue 66 : 
+2018-02-12 22:13:00,796 :: INFO ::  - picture : http://mscoco.org/images/252381
+2018-02-12 22:13:00,796 :: INFO ::  - object category : bowl
+2018-02-12 22:13:00,797 :: INFO ::  - object position : 525.66, 55.14500000000002
+2018-02-12 22:13:00,797 :: INFO ::  - question/answers :
+2018-02-12 22:13:00,797 :: INFO ::   > Is it edible? ? No
+2018-02-12 22:13:00,797 :: INFO ::   > Is it clear? ? Yes
+2018-02-12 22:13:00,797 :: INFO ::   > Is it on the right side of the photo? ? Yes
+2018-02-12 22:13:00,797 :: INFO ::   #> success
+2018-02-12 22:13:00,797 :: INFO :: 
+2018-02-12 22:13:00,798 :: INFO :: Dialogue 67 : 
+2018-02-12 22:13:00,798 :: INFO ::  - picture : http://mscoco.org/images/380447
+2018-02-12 22:13:00,798 :: INFO ::  - object category : bicycle
+2018-02-12 22:13:00,798 :: INFO ::  - object position : 439.81, 91.85
+2018-02-12 22:13:00,798 :: INFO ::  - question/answers :
+2018-02-12 22:13:00,798 :: INFO ::   > is it a bike? ? Yes
+2018-02-12 22:13:00,798 :: INFO ::   > is it parked? ? No
+2018-02-12 22:13:00,799 :: INFO ::   > Is it being ridden? ? Yes
+2018-02-12 22:13:00,799 :: INFO ::   #> success
+2018-02-12 22:13:00,799 :: INFO :: 
+2018-02-12 22:13:00,799 :: INFO :: Dialogue 68 : 
+2018-02-12 22:13:00,799 :: INFO ::  - picture : http://mscoco.org/images/39399
+2018-02-12 22:13:00,799 :: INFO ::  - object category : dining table
+2018-02-12 22:13:00,799 :: INFO ::  - object position : 307.03, 208.88
+2018-02-12 22:13:00,800 :: INFO ::  - question/answers :
+2018-02-12 22:13:00,800 :: INFO ::   > Is it man made? ? Yes
+2018-02-12 22:13:00,800 :: INFO ::   > Is it the bench? ? No
+2018-02-12 22:13:00,800 :: INFO ::   > Is it the table? ? Yes
+2018-02-12 22:13:00,800 :: INFO ::   #> success
+2018-02-12 22:13:00,800 :: INFO :: 
+2018-02-12 22:13:00,800 :: INFO :: Dialogue 69 : 
+2018-02-12 22:13:00,800 :: INFO ::  - picture : http://mscoco.org/images/333376
+2018-02-12 22:13:00,801 :: INFO ::  - object category : clock
+2018-02-12 22:13:00,801 :: INFO ::  - object position : 291.11, 507.235
+2018-02-12 22:13:00,801 :: INFO ::  - question/answers :
+2018-02-12 22:13:00,801 :: INFO ::   > is it a clock? ? Yes
+2018-02-12 22:13:00,801 :: INFO ::   > is it on a box? ? Yes
+2018-02-12 22:13:00,801 :: INFO ::   #> success
+2018-02-12 22:13:00,802 :: INFO :: 
+2018-02-12 22:13:00,802 :: INFO :: Dialogue 70 : 
+2018-02-12 22:13:00,802 :: INFO ::  - picture : http://mscoco.org/images/31948
+2018-02-12 22:13:00,802 :: INFO ::  - object category : person
+2018-02-12 22:13:00,802 :: INFO ::  - object position : 387.40000000000003, 364.815
+2018-02-12 22:13:00,802 :: INFO ::  - question/answers :
+2018-02-12 22:13:00,802 :: INFO ::   > Is it part of one of the trains? ? No
+2018-02-12 22:13:00,802 :: INFO ::   > Is it a person? ? Yes
+2018-02-12 22:13:00,803 :: INFO ::   #> success
+2018-02-12 22:13:00,803 :: INFO :: 
+2018-02-12 22:13:00,803 :: INFO :: Dialogue 71 : 
+2018-02-12 22:13:00,803 :: INFO ::  - picture : http://mscoco.org/images/470005
+2018-02-12 22:13:00,803 :: INFO ::  - object category : book
+2018-02-12 22:13:00,803 :: INFO ::  - object position : 268.96000000000004, 291.25
+2018-02-12 22:13:00,803 :: INFO ::  - question/answers :
+2018-02-12 22:13:00,804 :: INFO ::   > is it a person? ? No
+2018-02-12 22:13:00,804 :: INFO ::   > is it silver? ? No
+2018-02-12 22:13:00,804 :: INFO ::   > can you cover up with it? ? No
+2018-02-12 22:13:00,804 :: INFO ::   > is it white? ? Yes
+2018-02-12 22:13:00,804 :: INFO ::   > do you rest your head on it at night? ? No
+2018-02-12 22:13:00,804 :: INFO ::   > is it paper? ? Yes
+2018-02-12 22:13:00,804 :: INFO ::   #> success
+2018-02-12 22:13:00,804 :: INFO :: 
+2018-02-12 22:13:00,805 :: INFO :: Dialogue 72 : 
+2018-02-12 22:13:00,805 :: INFO ::  - picture : http://mscoco.org/images/301461
+2018-02-12 22:13:00,805 :: INFO ::  - object category : truck
+2018-02-12 22:13:00,805 :: INFO ::  - object position : 530.225, 378.57000000000005
+2018-02-12 22:13:00,805 :: INFO ::  - question/answers :
+2018-02-12 22:13:00,805 :: INFO ::   > is it a person? ? No
+2018-02-12 22:13:00,805 :: INFO ::   > it is an animal? ? No
+2018-02-12 22:13:00,805 :: INFO ::   > is it on the man in yellow? ? No
+2018-02-12 22:13:00,805 :: INFO ::   > is it an automobile? ? No
+2018-02-12 22:13:00,805 :: INFO ::   > is it blue in color? ? Yes
+2018-02-12 22:13:00,805 :: INFO ::   #> success
+2018-02-12 22:13:00,806 :: INFO :: 
+2018-02-12 22:13:00,806 :: INFO :: Dialogue 73 : 
+2018-02-12 22:13:00,806 :: INFO ::  - picture : http://mscoco.org/images/49586
+2018-02-12 22:13:00,806 :: INFO ::  - object category : motorcycle
+2018-02-12 22:13:00,806 :: INFO ::  - object position : 43.19, 382.26
+2018-02-12 22:13:00,806 :: INFO ::  - question/answers :
+2018-02-12 22:13:00,806 :: INFO ::   > is it a motorcycle? ? Yes
+2018-02-12 22:13:00,806 :: INFO ::   > is it blue? ? No
+2018-02-12 22:13:00,806 :: INFO ::   > does it have flames? ? Yes
+2018-02-12 22:13:00,806 :: INFO ::   #> success
+2018-02-12 22:13:00,806 :: INFO :: 
+2018-02-12 22:13:00,806 :: INFO :: Dialogue 74 : 
+2018-02-12 22:13:00,806 :: INFO ::  - picture : http://mscoco.org/images/402885
+2018-02-12 22:13:00,806 :: INFO ::  - object category : kite
+2018-02-12 22:13:00,806 :: INFO ::  - object position : 193.185, 371.36
+2018-02-12 22:13:00,807 :: INFO ::  - question/answers :
+2018-02-12 22:13:00,807 :: INFO ::   > is it a person? ? No
+2018-02-12 22:13:00,807 :: INFO ::   > Is it a boat? ? No
+2018-02-12 22:13:00,807 :: INFO ::   > Is it touching the water? ? No
+2018-02-12 22:13:00,807 :: INFO ::   > It is flying in the sky? ? Yes
+2018-02-12 22:13:00,807 :: INFO ::   > Is it red? ? Yes
+2018-02-12 22:13:00,807 :: INFO ::   > Is it the red cord attached to the man? ? No
+2018-02-12 22:13:00,807 :: INFO ::   #> success
+2018-02-12 22:13:00,807 :: INFO :: 
+2018-02-12 22:13:00,807 :: INFO :: Dialogue 75 : 
+2018-02-12 22:13:00,807 :: INFO ::  - picture : http://mscoco.org/images/103936
+2018-02-12 22:13:00,807 :: INFO ::  - object category : bus
+2018-02-12 22:13:00,807 :: INFO ::  - object position : 240.0, 320.0
+2018-02-12 22:13:00,807 :: INFO ::  - question/answers :
+2018-02-12 22:13:00,807 :: INFO ::   > is it a word? ? Yes
+2018-02-12 22:13:00,808 :: INFO ::   > does it start with M? ? Yes
+2018-02-12 22:13:00,808 :: INFO ::   > does it end with A? ? Yes
+2018-02-12 22:13:00,808 :: INFO ::   #> success
+2018-02-12 22:13:00,808 :: INFO :: 
+2018-02-12 22:13:00,808 :: INFO :: Dialogue 76 : 
+2018-02-12 22:13:00,808 :: INFO ::  - picture : http://mscoco.org/images/264091
+2018-02-12 22:13:00,808 :: INFO ::  - object category : surfboard
+2018-02-12 22:13:00,808 :: INFO ::  - object position : 325.945, 256.51500000000004
+2018-02-12 22:13:00,808 :: INFO ::  - question/answers :
+2018-02-12 22:13:00,808 :: INFO ::   > Is it a human? ? No
+2018-02-12 22:13:00,808 :: INFO ::   > Is it in the top third of the image? ? No
+2018-02-12 22:13:00,808 :: INFO ::   > Is it a piece of clothing? ? No
+2018-02-12 22:13:00,808 :: INFO ::   > It it a piece of sport equipment? ? Yes
+2018-02-12 22:13:00,808 :: INFO ::   #> success
+2018-02-12 22:13:00,808 :: INFO :: 
+2018-02-12 22:13:00,809 :: INFO :: Dialogue 77 : 
+2018-02-12 22:13:00,809 :: INFO ::  - picture : http://mscoco.org/images/138217
+2018-02-12 22:13:00,809 :: INFO ::  - object category : person
+2018-02-12 22:13:00,809 :: INFO ::  - object position : 403.05499999999995, 271.385
+2018-02-12 22:13:00,809 :: INFO ::  - question/answers :
+2018-02-12 22:13:00,809 :: INFO ::   > Is it a person? ? Yes
+2018-02-12 22:13:00,809 :: INFO ::   > Are they in the foreground? ? No
+2018-02-12 22:13:00,809 :: INFO ::   > Are they wearing blue? ? Yes
+2018-02-12 22:13:00,809 :: INFO ::   #> success
+2018-02-12 22:13:00,809 :: INFO :: 
+2018-02-12 22:13:00,809 :: INFO :: Dialogue 78 : 
+2018-02-12 22:13:00,809 :: INFO ::  - picture : http://mscoco.org/images/466664
+2018-02-12 22:13:00,809 :: INFO ::  - object category : bottle
+2018-02-12 22:13:00,810 :: INFO ::  - object position : 143.505, 368.37499999999994
+2018-02-12 22:13:00,810 :: INFO ::  - question/answers :
+2018-02-12 22:13:00,810 :: INFO ::   > Is it a personal care item? ? Yes
+2018-02-12 22:13:00,810 :: INFO ::   > Is it a book? ? No
+2018-02-12 22:13:00,810 :: INFO ::   > Is it an apparel item or accessory? ? No
+2018-02-12 22:13:00,810 :: INFO ::   > Is it a cord? ? No
+2018-02-12 22:13:00,810 :: INFO ::   > Is it the ipod? ? No
+2018-02-12 22:13:00,810 :: INFO ::   > Is it the wallet? ? No
+2018-02-12 22:13:00,810 :: INFO ::   > Is it in the back row of items? ? Yes
+2018-02-12 22:13:00,810 :: INFO ::   > Is it a blue bottle? ? Yes
+2018-02-12 22:13:00,810 :: INFO ::   > Is it the second from the left? ? Yes
+2018-02-12 22:13:00,810 :: INFO ::   #> success
+2018-02-12 22:13:00,810 :: INFO :: 
+2018-02-12 22:13:00,810 :: INFO :: Dialogue 79 : 
+2018-02-12 22:13:00,810 :: INFO ::  - picture : http://mscoco.org/images/239318
+2018-02-12 22:13:00,811 :: INFO ::  - object category : laptop
+2018-02-12 22:13:00,811 :: INFO ::  - object position : 197.3, 286.98
+2018-02-12 22:13:00,811 :: INFO ::  - question/answers :
+2018-02-12 22:13:00,811 :: INFO ::   > is it big? ? Yes
+2018-02-12 22:13:00,811 :: INFO ::   > is it made of wood? ? No
+2018-02-12 22:13:00,811 :: INFO ::   > is it plastic? ? No
+2018-02-12 22:13:00,811 :: INFO ::   > is it used to display things? ? Yes
+2018-02-12 22:13:00,811 :: INFO ::   #> success
+2018-02-12 22:13:00,811 :: INFO :: 
+2018-02-12 22:13:00,811 :: INFO :: Dialogue 80 : 
+2018-02-12 22:13:00,811 :: INFO ::  - picture : http://mscoco.org/images/324252
+2018-02-12 22:13:00,811 :: INFO ::  - object category : skateboard
+2018-02-12 22:13:00,811 :: INFO ::  - object position : 255.70499999999998, 57.77
+2018-02-12 22:13:00,811 :: INFO ::  - question/answers :
+2018-02-12 22:13:00,813 :: INFO ::   > Is it a person? ? No
+2018-02-12 22:13:00,813 :: INFO ::   > Does it have wheels? ? Yes
+2018-02-12 22:13:00,814 :: INFO ::   > Is the board orange? ? Yes
+2018-02-12 22:13:00,814 :: INFO ::   #> success
+2018-02-12 22:13:00,814 :: INFO :: 
+2018-02-12 22:13:00,814 :: INFO :: Dialogue 81 : 
+2018-02-12 22:13:00,814 :: INFO ::  - picture : http://mscoco.org/images/31904
+2018-02-12 22:13:00,814 :: INFO ::  - object category : car
+2018-02-12 22:13:00,814 :: INFO ::  - object position : 284.68, 428.58500000000004
+2018-02-12 22:13:00,815 :: INFO ::  - question/answers :
+2018-02-12 22:13:00,815 :: INFO ::   > Is it a she? ? No
+2018-02-12 22:13:00,815 :: INFO ::   > Is it a he? ? No
+2018-02-12 22:13:00,815 :: INFO ::   > Is it a vehicle? ? Yes
+2018-02-12 22:13:00,815 :: INFO ::   > Is it a four wheeler? ? Yes
+2018-02-12 22:13:00,815 :: INFO ::   > Is it a van? ? No
+2018-02-12 22:13:00,815 :: INFO ::   > Is it a car? ? Yes
+2018-02-12 22:13:00,816 :: INFO ::   #> success
+2018-02-12 22:13:00,816 :: INFO :: 
+2018-02-12 22:13:00,816 :: INFO :: Dialogue 82 : 
+2018-02-12 22:13:00,816 :: INFO ::  - picture : http://mscoco.org/images/291827
+2018-02-12 22:13:00,816 :: INFO ::  - object category : person
+2018-02-12 22:13:00,816 :: INFO ::  - object position : 585.63, 188.875
+2018-02-12 22:13:00,816 :: INFO ::  - question/answers :
+2018-02-12 22:13:00,816 :: INFO ::   > is it a person? ? Yes
+2018-02-12 22:13:00,817 :: INFO ::   > do they have black clothing on? ? Yes
+2018-02-12 22:13:00,817 :: INFO ::   > are they touching an orange surfboard? ? Yes
+2018-02-12 22:13:00,817 :: INFO ::   #> success
+2018-02-12 22:13:00,817 :: INFO :: 
+2018-02-12 22:13:00,817 :: INFO :: Dialogue 83 : 
+2018-02-12 22:13:00,817 :: INFO ::  - picture : http://mscoco.org/images/491172
+2018-02-12 22:13:00,817 :: INFO ::  - object category : person
+2018-02-12 22:13:00,818 :: INFO ::  - object position : 231.55, 290.52
+2018-02-12 22:13:00,818 :: INFO ::  - question/answers :
+2018-02-12 22:13:00,818 :: INFO ::   > Is it a person? ? Yes
+2018-02-12 22:13:00,818 :: INFO ::   > It is an adult? ? No
+2018-02-12 22:13:00,818 :: INFO ::   #> success
+2018-02-12 22:13:00,818 :: INFO :: 
+2018-02-12 22:13:00,818 :: INFO :: Dialogue 84 : 
+2018-02-12 22:13:00,819 :: INFO ::  - picture : http://mscoco.org/images/251857
+2018-02-12 22:13:00,819 :: INFO ::  - object category : car
+2018-02-12 22:13:00,819 :: INFO ::  - object position : 521.33, 238.975
+2018-02-12 22:13:00,819 :: INFO ::  - question/answers :
+2018-02-12 22:13:00,819 :: INFO ::   > Is it a human? ? No
+2018-02-12 22:13:00,819 :: INFO ::   > Is it a piece of clothing/apparel? ? No
+2018-02-12 22:13:00,819 :: INFO ::   > Is it green? ? No
+2018-02-12 22:13:00,819 :: INFO ::   > Is it a piece of sport equipment? ? No
+2018-02-12 22:13:00,820 :: INFO ::   > Is it a car? ? Yes
+2018-02-12 22:13:00,820 :: INFO ::   > Is it placed closer to us than the rest ones in the image? ? No
+2018-02-12 22:13:00,820 :: INFO ::   > Does it have red stripes on it? ? No
+2018-02-12 22:13:00,820 :: INFO ::   > Is it blue? ? No
+2018-02-12 22:13:00,820 :: INFO ::   > Is it between the one with red stripes and the ones that is fully white? ? Yes
+2018-02-12 22:13:00,820 :: INFO ::   #> success
+2018-02-12 22:13:00,820 :: INFO :: 
+2018-02-12 22:13:00,820 :: INFO :: Dialogue 85 : 
+2018-02-12 22:13:00,821 :: INFO ::  - picture : http://mscoco.org/images/78782
+2018-02-12 22:13:00,821 :: INFO ::  - object category : sink
+2018-02-12 22:13:00,821 :: INFO ::  - object position : 329.235, 525.205
+2018-02-12 22:13:00,821 :: INFO ::  - question/answers :
+2018-02-12 22:13:00,821 :: INFO ::   > is it a bear? ? No
+2018-02-12 22:13:00,821 :: INFO ::   > is it a toilet? ? No
+2018-02-12 22:13:00,821 :: INFO ::   > is it a sink? ? Yes
+2018-02-12 22:13:00,822 :: INFO ::   #> success
+2018-02-12 22:13:00,822 :: INFO :: 
+2018-02-12 22:13:00,822 :: INFO :: Dialogue 86 : 
+2018-02-12 22:13:00,822 :: INFO ::  - picture : http://mscoco.org/images/196843
+2018-02-12 22:13:00,822 :: INFO ::  - object category : bicycle
+2018-02-12 22:13:00,822 :: INFO ::  - object position : 66.8, 51.300000000000026
+2018-02-12 22:13:00,822 :: INFO ::  - question/answers :
+2018-02-12 22:13:00,823 :: INFO ::   > is it a letter? ? No
+2018-02-12 22:13:00,823 :: INFO ::   > Is it on the bus? ? No
+2018-02-12 22:13:00,823 :: INFO ::   > Is it living? ? No
+2018-02-12 22:13:00,823 :: INFO ::   > Does it have wheels? ? Yes
+2018-02-12 22:13:00,823 :: INFO ::   > Is it leaning against a road sign post? ? No
+2018-02-12 22:13:00,823 :: INFO ::   > Is it at the rear of the bus? ? Yes
+2018-02-12 22:13:00,823 :: INFO ::   #> success
+2018-02-12 22:13:00,824 :: INFO :: 
+2018-02-12 22:13:00,824 :: INFO :: Dialogue 87 : 
+2018-02-12 22:13:00,824 :: INFO ::  - picture : http://mscoco.org/images/340069
+2018-02-12 22:13:00,824 :: INFO ::  - object category : cake
+2018-02-12 22:13:00,824 :: INFO ::  - object position : 555.75, 254.49
+2018-02-12 22:13:00,824 :: INFO ::  - question/answers :
+2018-02-12 22:13:00,824 :: INFO ::   > Is it a person? ? No
+2018-02-12 22:13:00,824 :: INFO ::   > Is it in the foreground? ? Yes
+2018-02-12 22:13:00,825 :: INFO ::   > Is it silver? ? No
+2018-02-12 22:13:00,825 :: INFO ::   > Is it edible? ? Yes
+2018-02-12 22:13:00,825 :: INFO ::   #> success
+2018-02-12 22:13:00,825 :: INFO :: 
+2018-02-12 22:13:00,825 :: INFO :: Dialogue 88 : 
+2018-02-12 22:13:00,825 :: INFO ::  - picture : http://mscoco.org/images/74842
+2018-02-12 22:13:00,825 :: INFO ::  - object category : car
+2018-02-12 22:13:00,826 :: INFO ::  - object position : 111.88, 230.44
+2018-02-12 22:13:00,826 :: INFO ::  - question/answers :
+2018-02-12 22:13:00,826 :: INFO ::   > Is it a person? ? No
+2018-02-12 22:13:00,826 :: INFO ::   > does it have wheels? ? Yes
+2018-02-12 22:13:00,826 :: INFO ::   > is it in the background? ? Yes
+2018-02-12 22:13:00,826 :: INFO ::   > is it red? ? No
+2018-02-12 22:13:00,826 :: INFO ::   > is it white? ? Yes
+2018-02-12 22:13:00,827 :: INFO ::   #> success
+2018-02-12 22:13:00,827 :: INFO :: 
+2018-02-12 22:13:00,827 :: INFO :: Dialogue 89 : 
+2018-02-12 22:13:00,827 :: INFO ::  - picture : http://mscoco.org/images/383084
+2018-02-12 22:13:00,827 :: INFO ::  - object category : person
+2018-02-12 22:13:00,827 :: INFO ::  - object position : 23.295, 281.90999999999997
+2018-02-12 22:13:00,827 :: INFO ::  - question/answers :
+2018-02-12 22:13:00,828 :: INFO ::   > is it the person with the bat? ? No
+2018-02-12 22:13:00,828 :: INFO ::   > is it the person bending over in the front? ? No
+2018-02-12 22:13:00,828 :: INFO ::   > is it a person? ? Yes
+2018-02-12 22:13:00,828 :: INFO ::   > are they in the back left? ? Yes
+2018-02-12 22:13:00,828 :: INFO ::   #> success
+2018-02-12 22:13:00,828 :: INFO :: 
+2018-02-12 22:13:00,828 :: INFO :: Dialogue 90 : 
+2018-02-12 22:13:00,828 :: INFO ::  - picture : http://mscoco.org/images/74461
+2018-02-12 22:13:00,829 :: INFO ::  - object category : bench
+2018-02-12 22:13:00,829 :: INFO ::  - object position : 143.155, 322.03000000000003
+2018-02-12 22:13:00,829 :: INFO ::  - question/answers :
+2018-02-12 22:13:00,829 :: INFO ::   > is it a person? ? No
+2018-02-12 22:13:00,829 :: INFO ::   > is it a tree? ? No
+2018-02-12 22:13:00,829 :: INFO ::   > is it a bench? ? Yes
+2018-02-12 22:13:00,829 :: INFO ::   #> success
+2018-02-12 22:13:00,830 :: INFO :: 
+2018-02-12 22:13:00,830 :: INFO :: Dialogue 91 : 
+2018-02-12 22:13:00,830 :: INFO ::  - picture : http://mscoco.org/images/240684
+2018-02-12 22:13:00,830 :: INFO ::  - object category : person
+2018-02-12 22:13:00,830 :: INFO ::  - object position : 192.135, 168.54
+2018-02-12 22:13:00,830 :: INFO ::  - question/answers :
+2018-02-12 22:13:00,830 :: INFO ::   > Is the object a person? ? Yes
+2018-02-12 22:13:00,831 :: INFO ::   > Is the object wearing red/pink? ? No
+2018-02-12 22:13:00,831 :: INFO ::   #> success
+2018-02-12 22:13:00,831 :: INFO :: 
+2018-02-12 22:13:00,831 :: INFO :: Dialogue 92 : 
+2018-02-12 22:13:00,831 :: INFO ::  - picture : http://mscoco.org/images/336088
+2018-02-12 22:13:00,831 :: INFO ::  - object category : dining table
+2018-02-12 22:13:00,831 :: INFO ::  - object position : 319.42, 216.825
+2018-02-12 22:13:00,832 :: INFO ::  - question/answers :
+2018-02-12 22:13:00,832 :: INFO ::   > is it edible? ? No
+2018-02-12 22:13:00,832 :: INFO ::   > is it blue? ? No
+2018-02-12 22:13:00,833 :: INFO ::   > does it hold liquid? ? No
+2018-02-12 22:13:00,833 :: INFO ::   > is the main use of it to cut things? ? No
+2018-02-12 22:13:00,833 :: INFO ::   > is it yellow? ? Yes
+2018-02-12 22:13:00,833 :: INFO ::   #> success
+2018-02-12 22:13:00,834 :: INFO :: 
+2018-02-12 22:13:00,834 :: INFO :: Dialogue 93 : 
+2018-02-12 22:13:00,834 :: INFO ::  - picture : http://mscoco.org/images/409241
+2018-02-12 22:13:00,834 :: INFO ::  - object category : person
+2018-02-12 22:13:00,835 :: INFO ::  - object position : 202.60999999999999, 244.09500000000003
+2018-02-12 22:13:00,835 :: INFO ::  - question/answers :
+2018-02-12 22:13:00,835 :: INFO ::   > Is the object a train? ? No
+2018-02-12 22:13:00,835 :: INFO ::   > Is the object a person? ? Yes
+2018-02-12 22:13:00,835 :: INFO ::   > Is the object wearing blue? ? Yes
+2018-02-12 22:13:00,836 :: INFO ::   #> success
+2018-02-12 22:13:00,836 :: INFO :: 
+2018-02-12 22:13:00,836 :: INFO :: Dialogue 94 : 
+2018-02-12 22:13:00,836 :: INFO ::  - picture : http://mscoco.org/images/447733
+2018-02-12 22:13:00,837 :: INFO ::  - object category : person
+2018-02-12 22:13:00,837 :: INFO ::  - object position : 169.7, 195.425
+2018-02-12 22:13:00,837 :: INFO ::  - question/answers :
+2018-02-12 22:13:00,837 :: INFO ::   > Is it a person? ? Yes
+2018-02-12 22:13:00,837 :: INFO ::   > Are they on a skateboard? ? No
+2018-02-12 22:13:00,838 :: INFO ::   #> success
+2018-02-12 22:13:00,838 :: INFO :: 
+2018-02-12 22:13:00,838 :: INFO :: Dialogue 95 : 
+2018-02-12 22:13:00,838 :: INFO ::  - picture : http://mscoco.org/images/203429
+2018-02-12 22:13:00,838 :: INFO ::  - object category : umbrella
+2018-02-12 22:13:00,838 :: INFO ::  - object position : 384.97499999999997, 330.025
+2018-02-12 22:13:00,838 :: INFO ::  - question/answers :
+2018-02-12 22:13:00,838 :: INFO ::   > Is it a person? ? No
+2018-02-12 22:13:00,839 :: INFO ::   > Is it in the background? ? No
+2018-02-12 22:13:00,839 :: INFO ::   > Is it yellow? ? No
+2018-02-12 22:13:00,839 :: INFO ::   > Is it pink? ? Yes
+2018-02-12 22:13:00,839 :: INFO ::   > Is it an umbrella? ? Yes
+2018-02-12 22:13:00,839 :: INFO ::   #> success
+2018-02-12 22:13:00,839 :: INFO :: 
+2018-02-12 22:13:00,839 :: INFO :: Dialogue 96 : 
+2018-02-12 22:13:00,840 :: INFO ::  - picture : http://mscoco.org/images/145264
+2018-02-12 22:13:00,840 :: INFO ::  - object category : person
+2018-02-12 22:13:00,840 :: INFO ::  - object position : 584.22, 66.34999999999997
+2018-02-12 22:13:00,840 :: INFO ::  - question/answers :
+2018-02-12 22:13:00,840 :: INFO ::   > is it a person? ? Yes
+2018-02-12 22:13:00,840 :: INFO ::   > is it the closest person? ? Yes
+2018-02-12 22:13:00,840 :: INFO ::   #> success
+2018-02-12 22:13:00,840 :: INFO :: 
+2018-02-12 22:13:00,841 :: INFO :: Dialogue 97 : 
+2018-02-12 22:13:00,841 :: INFO ::  - picture : http://mscoco.org/images/70211
+2018-02-12 22:13:00,841 :: INFO ::  - object category : cake
+2018-02-12 22:13:00,841 :: INFO ::  - object position : 277.21500000000003, 297.71000000000004
+2018-02-12 22:13:00,841 :: INFO ::  - question/answers :
+2018-02-12 22:13:00,841 :: INFO ::   > Is in edible? ? Yes
+2018-02-12 22:13:00,841 :: INFO ::   > Is it in the top of the intact pieces of cake? ? Yes
+2018-02-12 22:13:00,842 :: INFO ::   > Is it in the form of a rectangular? ? Yes
+2018-02-12 22:13:00,842 :: INFO ::   > Is it white? ? Yes
+2018-02-12 22:13:00,842 :: INFO ::   > Does it covers ALL visible intact pieces of cake? ? Yes
+2018-02-12 22:13:00,842 :: INFO ::   #> success
+2018-02-12 22:13:00,842 :: INFO :: 
+2018-02-12 22:13:00,842 :: INFO :: Dialogue 98 : 
+2018-02-12 22:13:00,842 :: INFO ::  - picture : http://mscoco.org/images/71226
+2018-02-12 22:13:00,843 :: INFO ::  - object category : dog
+2018-02-12 22:13:00,843 :: INFO ::  - object position : 357.875, 144.07000000000002
+2018-02-12 22:13:00,843 :: INFO ::  - question/answers :
+2018-02-12 22:13:00,843 :: INFO ::   > does it have fur? ? Yes
+2018-02-12 22:13:00,843 :: INFO ::   > is it a dog? ? Yes
+2018-02-12 22:13:00,843 :: INFO ::   > is it a light brown dog? ? Yes
+2018-02-12 22:13:00,843 :: INFO ::   #> success
+2018-02-12 22:13:00,843 :: INFO :: 
+2018-02-12 22:13:00,844 :: INFO :: Dialogue 99 : 
+2018-02-12 22:13:00,844 :: INFO ::  - picture : http://mscoco.org/images/544325
+2018-02-12 22:13:00,844 :: INFO ::  - object category : person
+2018-02-12 22:13:00,844 :: INFO ::  - object position : 58.25, 245.34999999999997
+2018-02-12 22:13:00,844 :: INFO ::  - question/answers :
+2018-02-12 22:13:00,844 :: INFO ::   > is it a person? ? Yes
+2018-02-12 22:13:00,844 :: INFO ::   > is he wearing a brown coat? ? No
+2018-02-12 22:13:00,845 :: INFO ::   > is he wearing a white shirt? ? No
+2018-02-12 22:13:00,845 :: INFO ::   > does he have the number 2 on his shirt? ? No
+2018-02-12 22:13:00,845 :: INFO ::   > is he wearing a blue shirt? ? No
+2018-02-12 22:13:00,845 :: INFO ::   > are they sitting down? ? No
+2018-02-12 22:13:00,845 :: INFO ::   > is it the guy in the orange shirt to the left? ? Yes
+2018-02-12 22:13:00,845 :: INFO ::   #> success
+2018-02-12 22:13:00,845 :: INFO :: 
+2018-02-12 22:13:06,919 :: INFO :: Number of dialogues: 107021
+2018-02-12 22:13:06,920 :: INFO :: Number of words:     2671524
+2018-02-12 22:13:06,921 :: INFO :: voc size:            9780
+2018-02-12 22:13:06,921 :: INFO :: voc size (occ >3):   4666
+2018-02-12 22:13:06,921 :: INFO :: 50 most common words
+2018-02-12 22:13:06,927 :: INFO :: [('is', 413466), ('it', 372545), ('the', 292510), ('a', 156384), ('person', 74622), ('on', 68718), ('in', 67405), ('of', 54963), ('one', 47165), ('left', 37096), ('right', 32033), ('to', 24543), ('white', 20867), ('wearing', 15458), ('red', 14406), ('side', 14182), ('black', 13521), ('front', 13144), ('with', 12977), ('are', 12797), ('blue', 12227), ('they', 11515), ('he', 11221), ('table', 10721), ('top', 10212), ('car', 10088), ('does', 9398), ('an', 9016), ('that', 8942), ('picture', 8617), ('middle', 8359), ('from', 8096), ('food', 7806), ('have', 7772), ('object', 7766), ('shirt', 7491), ('green', 7300), ('chair', 7142), ('man', 7121), ('near', 6883), ('behind', 6663), ('yellow', 6391), ('you', 6375), ('and', 6295), ('can', 6281), ('back', 5700), ('next', 5673), ('first', 5559), ('something', 5513), ('whole', 5428)]
+2018-02-12 22:32:27,573 :: INFO :: Dialogue 0 : 
+2018-02-12 22:32:27,575 :: INFO ::  - picture : http://mscoco.org/images/534127
+2018-02-12 22:32:27,575 :: INFO ::  - object category : person
+2018-02-12 22:32:27,576 :: INFO ::  - object position : 371.94, 123.5
+2018-02-12 22:32:27,576 :: INFO ::  - question/answers :
+2018-02-12 22:32:27,576 :: INFO ::   > Is it a person? ? Yes
+2018-02-12 22:32:27,576 :: INFO ::   > Is the person a boy? ? Yes
+2018-02-12 22:32:27,576 :: INFO ::   #> success
+2018-02-12 22:32:27,577 :: INFO :: 
+2018-02-12 22:32:27,577 :: INFO :: Dialogue 1 : 
+2018-02-12 22:32:27,577 :: INFO ::  - picture : http://mscoco.org/images/23893
+2018-02-12 22:32:27,577 :: INFO ::  - object category : person
+2018-02-12 22:32:27,578 :: INFO ::  - object position : 170.225, 233.71
+2018-02-12 22:32:27,578 :: INFO ::  - question/answers :
+2018-02-12 22:32:27,578 :: INFO ::   > is it a person? ? Yes
+2018-02-12 22:32:27,578 :: INFO ::   > in the foreground? ? Yes
+2018-02-12 22:32:27,578 :: INFO ::   #> success
+2018-02-12 22:32:27,579 :: INFO :: 
+2018-02-12 22:32:27,579 :: INFO :: Dialogue 2 : 
+2018-02-12 22:32:27,579 :: INFO ::  - picture : http://mscoco.org/images/230617
+2018-02-12 22:32:27,579 :: INFO ::  - object category : bowl
+2018-02-12 22:32:27,580 :: INFO ::  - object position : 48.025000000000006, 159.475
+2018-02-12 22:32:27,580 :: INFO ::  - question/answers :
+2018-02-12 22:32:27,580 :: INFO ::   > is it furniture? ? No
+2018-02-12 22:32:27,580 :: INFO ::   > is it white? ? No
+2018-02-12 22:32:27,580 :: INFO ::   > is it on the wall? ? No
+2018-02-12 22:32:27,581 :: INFO ::   > is it on the ground? ? No
+2018-02-12 22:32:27,581 :: INFO ::   > is it light up? ? No
+2018-02-12 22:32:27,581 :: INFO ::   > is it on the table? ? Yes
+2018-02-12 22:32:27,581 :: INFO ::   > is it on the close table? ? No
+2018-02-12 22:32:27,581 :: INFO ::   > is it on the left on the far table? ? Yes
+2018-02-12 22:32:27,582 :: INFO ::   #> success
+2018-02-12 22:32:27,582 :: INFO :: 
+2018-02-12 22:32:27,582 :: INFO :: Dialogue 3 : 
+2018-02-12 22:32:27,582 :: INFO ::  - picture : http://mscoco.org/images/460809
+2018-02-12 22:32:27,583 :: INFO ::  - object category : bottle
+2018-02-12 22:32:27,583 :: INFO ::  - object position : 228.26, 468.255
+2018-02-12 22:32:27,583 :: INFO ::  - question/answers :
+2018-02-12 22:32:27,583 :: INFO ::   > is it an appliance? ? No
+2018-02-12 22:32:27,583 :: INFO ::   > is it on the counter? ? Yes
+2018-02-12 22:32:27,584 :: INFO ::   > is it a spice? ? Yes
+2018-02-12 22:32:27,584 :: INFO ::   > does the container have a picture? ? No
+2018-02-12 22:32:27,584 :: INFO ::   > Does the container have a red top? ? No
+2018-02-12 22:32:27,584 :: INFO ::   > is it red white and blue? ? No
+2018-02-12 22:32:27,584 :: INFO ::   > is it on the spice carousel? ? Yes
+2018-02-12 22:32:27,585 :: INFO ::   #> success
+2018-02-12 22:32:27,585 :: INFO :: 
+2018-02-12 22:32:27,585 :: INFO :: Dialogue 4 : 
+2018-02-12 22:32:27,585 :: INFO ::  - picture : http://mscoco.org/images/263178
+2018-02-12 22:32:27,585 :: INFO ::  - object category : banana
+2018-02-12 22:32:27,586 :: INFO ::  - object position : 268.865, 318.325
+2018-02-12 22:32:27,586 :: INFO ::  - question/answers :
+2018-02-12 22:32:27,586 :: INFO ::   > is it food? ? Yes
+2018-02-12 22:32:27,587 :: INFO ::   > is it fruit? ? Yes
+2018-02-12 22:32:27,587 :: INFO ::   > how many fruits? ? N/A
+2018-02-12 22:32:27,587 :: INFO ::   > is there just one fruit? ? Yes
+2018-02-12 22:32:27,587 :: INFO ::   #> success
+2018-02-12 22:32:27,587 :: INFO :: 
+2018-02-12 22:32:27,587 :: INFO :: Dialogue 5 : 
+2018-02-12 22:32:27,588 :: INFO ::  - picture : http://mscoco.org/images/360739
+2018-02-12 22:32:27,588 :: INFO ::  - object category : person
+2018-02-12 22:32:27,588 :: INFO ::  - object position : 114.665, 126.66
+2018-02-12 22:32:27,588 :: INFO ::  - question/answers :
+2018-02-12 22:32:27,588 :: INFO ::   > Is it a person? ? Yes
+2018-02-12 22:32:27,589 :: INFO ::   > Is the person male? ? No
+2018-02-12 22:32:27,589 :: INFO ::   #> success
+2018-02-12 22:32:27,589 :: INFO :: 
+2018-02-12 22:32:27,589 :: INFO :: Dialogue 6 : 
+2018-02-12 22:32:27,589 :: INFO ::  - picture : http://mscoco.org/images/425226
+2018-02-12 22:32:27,590 :: INFO ::  - object category : bottle
+2018-02-12 22:32:27,590 :: INFO ::  - object position : 252.64, 259.84
+2018-02-12 22:32:27,590 :: INFO ::  - question/answers :
+2018-02-12 22:32:27,590 :: INFO ::   > is it a person? ? No
+2018-02-12 22:32:27,591 :: INFO ::   > is it an appliance? ? No
+2018-02-12 22:32:27,591 :: INFO ::   > is it food? ? Yes
+2018-02-12 22:32:27,591 :: INFO ::   > is it in the fridge? ? Yes
+2018-02-12 22:32:27,591 :: INFO ::   > is it in a carton? ? No
+2018-02-12 22:32:27,591 :: INFO ::   > is it in a bottle? ? Yes
+2018-02-12 22:32:27,592 :: INFO ::   > is it brown? ? Yes
+2018-02-12 22:32:27,592 :: INFO ::   #> success
+2018-02-12 22:32:27,592 :: INFO :: 
+2018-02-12 22:32:27,592 :: INFO :: Dialogue 7 : 
+2018-02-12 22:32:27,592 :: INFO ::  - picture : http://mscoco.org/images/157190
+2018-02-12 22:32:27,593 :: INFO ::  - object category : oven
+2018-02-12 22:32:27,593 :: INFO ::  - object position : 447.305, 107.41499999999999
+2018-02-12 22:32:27,593 :: INFO ::  - question/answers :
+2018-02-12 22:32:27,593 :: INFO ::   > is it on the back coutertop? ? No
+2018-02-12 22:32:27,594 :: INFO ::   > is it on the island? ? No
+2018-02-12 22:32:27,594 :: INFO ::   > is it on the walls? ? No
+2018-02-12 22:32:27,594 :: INFO ::   > is it in the cabinets? ? No
+2018-02-12 22:32:27,594 :: INFO ::   > is it a human? ? No
+2018-02-12 22:32:27,594 :: INFO ::   > is it on the windowsill? ? No
+2018-02-12 22:32:27,595 :: INFO ::   > is it an appliance? ? Yes
+2018-02-12 22:32:27,595 :: INFO ::   > does it cook things? ? Yes
+2018-02-12 22:32:27,595 :: INFO ::   #> success
+2018-02-12 22:32:27,595 :: INFO :: 
+2018-02-12 22:32:27,595 :: INFO :: Dialogue 8 : 
+2018-02-12 22:32:27,596 :: INFO ::  - picture : http://mscoco.org/images/579680
+2018-02-12 22:32:27,596 :: INFO ::  - object category : tennis racket
+2018-02-12 22:32:27,596 :: INFO ::  - object position : 324.79, 138.155
+2018-02-12 22:32:27,596 :: INFO ::  - question/answers :
+2018-02-12 22:32:27,597 :: INFO ::   > is it a guy? ? No
+2018-02-12 22:32:27,597 :: INFO ::   > is it a racket? ? Yes
+2018-02-12 22:32:27,597 :: INFO ::   > is it on the right? ? No
+2018-02-12 22:32:27,597 :: INFO ::   #> success
+2018-02-12 22:32:27,597 :: INFO :: 
+2018-02-12 22:32:27,598 :: INFO :: Dialogue 9 : 
+2018-02-12 22:32:27,598 :: INFO ::  - picture : http://mscoco.org/images/337575
+2018-02-12 22:32:27,598 :: INFO ::  - object category : oven
+2018-02-12 22:32:27,598 :: INFO ::  - object position : 272.895, 243.775
+2018-02-12 22:32:27,598 :: INFO ::  - question/answers :
+2018-02-12 22:32:27,599 :: INFO ::   > Is it an appliance? ? Yes
+2018-02-12 22:32:27,599 :: INFO ::   > It is a stove? ? Yes
+2018-02-12 22:32:27,599 :: INFO ::   #> success
+2018-02-12 22:32:27,599 :: INFO :: 
+2018-02-12 22:32:27,599 :: INFO :: Dialogue 10 : 
+2018-02-12 22:32:27,600 :: INFO ::  - picture : http://mscoco.org/images/48050
+2018-02-12 22:32:27,600 :: INFO ::  - object category : bowl
+2018-02-12 22:32:27,600 :: INFO ::  - object position : 26.815, 308.05500000000006
+2018-02-12 22:32:27,600 :: INFO ::  - question/answers :
+2018-02-12 22:32:27,600 :: INFO ::   > Is it edible? ? No
+2018-02-12 22:32:27,601 :: INFO ::   > is it flowers? ? No
+2018-02-12 22:32:27,601 :: INFO ::   > is it a knife? ? No
+2018-02-12 22:32:27,601 :: INFO ::   > is it a doll? ? No
+2018-02-12 22:32:27,601 :: INFO ::   > is it a table? ? No
+2018-02-12 22:32:27,601 :: INFO ::   > is it blue? ? No
+2018-02-12 22:32:27,602 :: INFO ::   > is it white? ? Yes
+2018-02-12 22:32:27,602 :: INFO ::   > is it round? ? Yes
+2018-02-12 22:32:27,602 :: INFO ::   #> success
+2018-02-12 22:32:27,603 :: INFO :: 
+2018-02-12 22:32:27,603 :: INFO :: Dialogue 11 : 
+2018-02-12 22:32:27,603 :: INFO ::  - picture : http://mscoco.org/images/100282
+2018-02-12 22:32:27,604 :: INFO ::  - object category : sandwich
+2018-02-12 22:32:27,604 :: INFO ::  - object position : 373.51, 216.76000000000002
+2018-02-12 22:32:27,604 :: INFO ::  - question/answers :
+2018-02-12 22:32:27,604 :: INFO ::   > Is it a dish? ? No
+2018-02-12 22:32:27,604 :: INFO ::   > Is it a food? ? Yes
+2018-02-12 22:32:27,605 :: INFO ::   > Is it a vegetable? ? No
+2018-02-12 22:32:27,605 :: INFO ::   > Is it a meat? ? Yes
+2018-02-12 22:32:27,605 :: INFO ::   #> success
+2018-02-12 22:32:27,605 :: INFO :: 
+2018-02-12 22:32:27,605 :: INFO :: Dialogue 12 : 
+2018-02-12 22:32:27,606 :: INFO ::  - picture : http://mscoco.org/images/326936
+2018-02-12 22:32:27,606 :: INFO ::  - object category : bowl
+2018-02-12 22:32:27,606 :: INFO ::  - object position : 282.785, 315.31000000000006
+2018-02-12 22:32:27,606 :: INFO ::  - question/answers :
+2018-02-12 22:32:27,607 :: INFO ::   > Is it on the floor? ? No
+2018-02-12 22:32:27,607 :: INFO ::   > Is it on the table? ? No
+2018-02-12 22:32:27,607 :: INFO ::   > Hanging on the wall? ? No
+2018-02-12 22:32:27,607 :: INFO ::   > Is it wood? ? No
+2018-02-12 22:32:27,607 :: INFO ::   > Located in a corner? ? No
+2018-02-12 22:32:27,607 :: INFO ::   #> success
+2018-02-12 22:32:27,608 :: INFO :: 
+2018-02-12 22:32:27,608 :: INFO :: Dialogue 13 : 
+2018-02-12 22:32:27,608 :: INFO ::  - picture : http://mscoco.org/images/47394
+2018-02-12 22:32:27,608 :: INFO ::  - object category : baseball glove
+2018-02-12 22:32:27,608 :: INFO ::  - object position : 279.05, 264.25
+2018-02-12 22:32:27,609 :: INFO ::  - question/answers :
+2018-02-12 22:32:27,609 :: INFO ::   > Is it a person? ? No
+2018-02-12 22:32:27,609 :: INFO ::   > Is it an object? ? Yes
+2018-02-12 22:32:27,609 :: INFO ::   > Is it made of metal? ? No
+2018-02-12 22:32:27,610 :: INFO ::   > Is it white? ? No
+2018-02-12 22:32:27,611 :: INFO ::   > Is it black? ? No
+2018-02-12 22:32:27,611 :: INFO ::   > Is it a article of clothing? ? No
+2018-02-12 22:32:27,612 :: INFO ::   > Is it dirt? ? No
+2018-02-12 22:32:27,613 :: INFO ::   > Is it maroon? ? No
+2018-02-12 22:32:27,614 :: INFO ::   > Is it a bat? ? No
+2018-02-12 22:32:27,615 :: INFO ::   > Is it green? ? No
+2018-02-12 22:32:27,616 :: INFO ::   > Is it striped? ? No
+2018-02-12 22:32:27,616 :: INFO ::   > is it large? ? No
+2018-02-12 22:32:27,616 :: INFO ::   > is it small? ? Yes
+2018-02-12 22:32:27,619 :: INFO ::   > is it shoes? ? No
+2018-02-12 22:32:27,619 :: INFO ::   > is it gloves? ? Yes
+2018-02-12 22:32:27,620 :: INFO ::   > is it a baseball glove? ? Yes
+2018-02-12 22:32:27,620 :: INFO ::   #> success
+2018-02-12 22:32:27,620 :: INFO :: 
+2018-02-12 22:32:27,620 :: INFO :: Dialogue 14 : 
+2018-02-12 22:32:27,620 :: INFO ::  - picture : http://mscoco.org/images/445433
+2018-02-12 22:32:27,621 :: INFO ::  - object category : refrigerator
+2018-02-12 22:32:27,621 :: INFO ::  - object position : 199.775, 179.82999999999996
+2018-02-12 22:32:27,621 :: INFO ::  - question/answers :
+2018-02-12 22:32:27,621 :: INFO ::   > is it an appliance? ? Yes
+2018-02-12 22:32:27,621 :: INFO ::   > is it white? ? Yes
+2018-02-12 22:32:27,622 :: INFO ::   > does it have two compartments? ? Yes
+2018-02-12 22:32:27,622 :: INFO ::   #> success
+2018-02-12 22:32:27,622 :: INFO :: 
+2018-02-12 22:32:27,622 :: INFO :: Dialogue 15 : 
+2018-02-12 22:32:27,622 :: INFO ::  - picture : http://mscoco.org/images/570390
+2018-02-12 22:32:27,623 :: INFO ::  - object category : person
+2018-02-12 22:32:27,623 :: INFO ::  - object position : 175.83499999999998, 567.7249999999999
+2018-02-12 22:32:27,623 :: INFO ::  - question/answers :
+2018-02-12 22:32:27,623 :: INFO ::   > is it a person? ? Yes
+2018-02-12 22:32:27,625 :: INFO ::   > is it on the elephant? ? Yes
+2018-02-12 22:32:27,625 :: INFO ::   > are they wearing red? ? No
+2018-02-12 22:32:27,625 :: INFO ::   > are they wearing a black hat? ? No
+2018-02-12 22:32:27,625 :: INFO ::   > are they in the front? ? No
+2018-02-12 22:32:27,625 :: INFO ::   #> success
+2018-02-12 22:32:27,626 :: INFO :: 
+2018-02-12 22:32:27,626 :: INFO :: Dialogue 16 : 
+2018-02-12 22:32:27,626 :: INFO ::  - picture : http://mscoco.org/images/554296
+2018-02-12 22:32:27,627 :: INFO ::  - object category : person
+2018-02-12 22:32:27,627 :: INFO ::  - object position : 566.63, 324.355
+2018-02-12 22:32:27,627 :: INFO ::  - question/answers :
+2018-02-12 22:32:27,627 :: INFO ::   > Is it electronic? ? No
+2018-02-12 22:32:27,627 :: INFO ::   > Is it a person? ? Yes
+2018-02-12 22:32:27,628 :: INFO ::   > Are they far away? ? No
+2018-02-12 22:32:27,628 :: INFO ::   #> success
+2018-02-12 22:32:27,628 :: INFO :: 
+2018-02-12 22:32:27,628 :: INFO :: Dialogue 17 : 
+2018-02-12 22:32:27,629 :: INFO ::  - picture : http://mscoco.org/images/314689
+2018-02-12 22:32:27,629 :: INFO ::  - object category : bowl
+2018-02-12 22:32:27,629 :: INFO ::  - object position : 29.72, 256.54499999999996
+2018-02-12 22:32:27,629 :: INFO ::  - question/answers :
+2018-02-12 22:32:27,629 :: INFO ::   > is it a child? ? No
+2018-02-12 22:32:27,630 :: INFO ::   > is it a pillow? ? No
+2018-02-12 22:32:27,630 :: INFO ::   > it is a lamp? ? No
+2018-02-12 22:32:27,630 :: INFO ::   > is it on the table with lamp? ? Yes
+2018-02-12 22:32:27,630 :: INFO ::   > is it the phone? ? No
+2018-02-12 22:32:27,631 :: INFO ::   > it is the dish? ? No
+2018-02-12 22:32:27,631 :: INFO ::   > it is alarm clock? ? No
+2018-02-12 22:32:27,631 :: INFO ::   #> success
+2018-02-12 22:32:27,632 :: INFO :: 
+2018-02-12 22:32:27,632 :: INFO :: Dialogue 18 : 
+2018-02-12 22:32:27,632 :: INFO ::  - picture : http://mscoco.org/images/300663
+2018-02-12 22:32:27,632 :: INFO ::  - object category : motorcycle
+2018-02-12 22:32:27,633 :: INFO ::  - object position : 284.705, 290.665
+2018-02-12 22:32:27,633 :: INFO ::  - question/answers :
+2018-02-12 22:32:27,633 :: INFO ::   > is it a person? ? No
+2018-02-12 22:32:27,633 :: INFO ::   > is it a motorcycle? ? Yes
+2018-02-12 22:32:27,634 :: INFO ::   > is it red? ? No
+2018-02-12 22:32:27,634 :: INFO ::   #> success
+2018-02-12 22:32:27,634 :: INFO :: 
+2018-02-12 22:32:27,635 :: INFO :: Dialogue 19 : 
+2018-02-12 22:32:27,635 :: INFO ::  - picture : http://mscoco.org/images/165253
+2018-02-12 22:32:27,635 :: INFO ::  - object category : person
+2018-02-12 22:32:27,636 :: INFO ::  - object position : 433.55, 303.865
+2018-02-12 22:32:27,636 :: INFO ::  - question/answers :
+2018-02-12 22:32:27,636 :: INFO ::   > is it alive? ? Yes
+2018-02-12 22:32:27,636 :: INFO ::   > is it a human? ? Yes
+2018-02-12 22:32:27,637 :: INFO ::   #> success
+2018-02-12 22:32:27,637 :: INFO :: 
+2018-02-12 22:32:27,637 :: INFO :: Dialogue 20 : 
+2018-02-12 22:32:27,637 :: INFO ::  - picture : http://mscoco.org/images/19413
+2018-02-12 22:32:27,638 :: INFO ::  - object category : bus
+2018-02-12 22:32:27,638 :: INFO ::  - object position : 286.995, 226.35000000000002
+2018-02-12 22:32:27,638 :: INFO ::  - question/answers :
+2018-02-12 22:32:27,638 :: INFO ::   > is it the bus? ? Yes
+2018-02-12 22:32:27,639 :: INFO ::   #> success
+2018-02-12 22:32:27,639 :: INFO :: 
+2018-02-12 22:32:27,639 :: INFO :: Dialogue 21 : 
+2018-02-12 22:32:27,639 :: INFO ::  - picture : http://mscoco.org/images/366679
+2018-02-12 22:32:27,639 :: INFO ::  - object category : tennis racket
+2018-02-12 22:32:27,640 :: INFO ::  - object position : 168.235, 362.475
+2018-02-12 22:32:27,640 :: INFO ::  - question/answers :
+2018-02-12 22:32:27,640 :: INFO ::   > is it an animal? ? No
+2018-02-12 22:32:27,640 :: INFO ::   > is it a racket? ? Yes
+2018-02-12 22:32:27,640 :: INFO ::   #> success
+2018-02-12 22:32:27,641 :: INFO :: 
+2018-02-12 22:32:27,641 :: INFO :: Dialogue 22 : 
+2018-02-12 22:32:27,641 :: INFO ::  - picture : http://mscoco.org/images/536570
+2018-02-12 22:32:27,641 :: INFO ::  - object category : person
+2018-02-12 22:32:27,641 :: INFO ::  - object position : 274.66999999999996, 239.25499999999997
+2018-02-12 22:32:27,642 :: INFO ::  - question/answers :
+2018-02-12 22:32:27,642 :: INFO ::   > is it a person? ? Yes
+2018-02-12 22:32:27,643 :: INFO ::   > is it a child? ? Yes
+2018-02-12 22:32:27,644 :: INFO ::   #> success
+2018-02-12 22:32:27,645 :: INFO :: 
+2018-02-12 22:32:27,645 :: INFO :: Dialogue 23 : 
+2018-02-12 22:32:27,645 :: INFO ::  - picture : http://mscoco.org/images/390083
+2018-02-12 22:32:27,645 :: INFO ::  - object category : bench
+2018-02-12 22:32:27,646 :: INFO ::  - object position : 111.175, 227.935
+2018-02-12 22:32:27,646 :: INFO ::  - question/answers :
+2018-02-12 22:32:27,646 :: INFO ::   > is it emitting light? ? No
+2018-02-12 22:32:27,646 :: INFO ::   > is it by the wall? ? No
+2018-02-12 22:32:27,646 :: INFO ::   > is something written on it? ? No
+2018-02-12 22:32:27,647 :: INFO ::   > do people sit on it? ? Yes
+2018-02-12 22:32:27,647 :: INFO ::   #> success
+2018-02-12 22:32:27,647 :: INFO :: 
+2018-02-12 22:32:27,647 :: INFO :: Dialogue 24 : 
+2018-02-12 22:32:27,647 :: INFO ::  - picture : http://mscoco.org/images/80040
+2018-02-12 22:32:27,648 :: INFO ::  - object category : dining table
+2018-02-12 22:32:27,648 :: INFO ::  - object position : 321.61, 241.07499999999996
+2018-02-12 22:32:27,648 :: INFO ::  - question/answers :
+2018-02-12 22:32:27,648 :: INFO ::   > Is a bowl? ? No
+2018-02-12 22:32:27,649 :: INFO ::   > Is it green? ? No
+2018-02-12 22:32:27,649 :: INFO ::   > Is it in a bowl? ? No
+2018-02-12 22:32:27,649 :: INFO ::   > Is it on a plate? ? No
+2018-02-12 22:32:27,649 :: INFO ::   > Is it glass? ? No
+2018-02-12 22:32:27,650 :: INFO ::   > Is it brown? ? Yes
+2018-02-12 22:32:27,650 :: INFO ::   > Is it made of wood? ? Yes
+2018-02-12 22:32:27,650 :: INFO ::   #> success
+2018-02-12 22:32:27,650 :: INFO :: 
+2018-02-12 22:32:27,650 :: INFO :: Dialogue 25 : 
+2018-02-12 22:32:27,651 :: INFO ::  - picture : http://mscoco.org/images/256945
+2018-02-12 22:32:27,651 :: INFO ::  - object category : sandwich
+2018-02-12 22:32:27,651 :: INFO ::  - object position : 200.915, 306.74
+2018-02-12 22:32:27,651 :: INFO ::  - question/answers :
+2018-02-12 22:32:27,652 :: INFO ::   > Is it considered food? ? Yes
+2018-02-12 22:32:27,652 :: INFO ::   > Is it yellow? ? No
+2018-02-12 22:32:27,652 :: INFO ::   > Does it have lettuce on it? ? Yes
+2018-02-12 22:32:27,652 :: INFO ::   #> success
+2018-02-12 22:32:27,652 :: INFO :: 
+2018-02-12 22:32:27,653 :: INFO :: Dialogue 26 : 
+2018-02-12 22:32:27,653 :: INFO ::  - picture : http://mscoco.org/images/449384
+2018-02-12 22:32:27,653 :: INFO ::  - object category : person
+2018-02-12 22:32:27,653 :: INFO ::  - object position : 374.28999999999996, 172.045
+2018-02-12 22:32:27,653 :: INFO ::  - question/answers :
+2018-02-12 22:32:27,654 :: INFO ::   > is it a piece of clothing? ? No
+2018-02-12 22:32:27,654 :: INFO ::   > is it a vehicle? ? No
+2018-02-12 22:32:27,654 :: INFO ::   > is it a bag? ? No
+2018-02-12 22:32:27,654 :: INFO ::   > is it an umbrella? ? No
+2018-02-12 22:32:27,654 :: INFO ::   > is it a sign? ? No
+2018-02-12 22:32:27,655 :: INFO ::   > is it a tree? ? No
+2018-02-12 22:32:27,655 :: INFO ::   > is it in the background? ? No
+2018-02-12 22:32:27,655 :: INFO ::   > is it a sidewalk? ? No
+2018-02-12 22:32:27,655 :: INFO ::   > is it a person? ? Yes
+2018-02-12 22:32:27,655 :: INFO ::   > is it a child? ? Yes
+2018-02-12 22:32:27,656 :: INFO ::   #> success
+2018-02-12 22:32:27,656 :: INFO :: 
+2018-02-12 22:32:27,656 :: INFO :: Dialogue 27 : 
+2018-02-12 22:32:27,656 :: INFO ::  - picture : http://mscoco.org/images/217272
+2018-02-12 22:32:27,656 :: INFO ::  - object category : knife
+2018-02-12 22:32:27,657 :: INFO ::  - object position : 439.53, 251.61
+2018-02-12 22:32:27,657 :: INFO ::  - question/answers :
+2018-02-12 22:32:27,657 :: INFO ::   > is it food? ? No
+2018-02-12 22:32:27,657 :: INFO ::   > is it a drink? ? No
+2018-02-12 22:32:27,657 :: INFO ::   > is it a knife? ? Yes
+2018-02-12 22:32:27,658 :: INFO ::   #> success
+2018-02-12 22:32:27,658 :: INFO :: 
+2018-02-12 22:32:27,658 :: INFO :: Dialogue 28 : 
+2018-02-12 22:32:27,659 :: INFO ::  - picture : http://mscoco.org/images/437452
+2018-02-12 22:32:27,659 :: INFO ::  - object category : laptop
+2018-02-12 22:32:27,659 :: INFO ::  - object position : 151.665, 241.58
+2018-02-12 22:32:27,659 :: INFO ::  - question/answers :
+2018-02-12 22:32:27,660 :: INFO ::   > is it the laptop? ? Yes
+2018-02-12 22:32:27,660 :: INFO ::   #> success
+2018-02-12 22:32:27,660 :: INFO :: 
+2018-02-12 22:32:27,660 :: INFO :: Dialogue 29 : 
+2018-02-12 22:32:27,660 :: INFO ::  - picture : http://mscoco.org/images/80916
+2018-02-12 22:32:27,660 :: INFO ::  - object category : bottle
+2018-02-12 22:32:27,661 :: INFO ::  - object position : 85.475, 184.165
+2018-02-12 22:32:27,661 :: INFO ::  - question/answers :
+2018-02-12 22:32:27,661 :: INFO ::   > is it white? ? No
+2018-02-12 22:32:27,661 :: INFO ::   > is it blue? ? No
+2018-02-12 22:32:27,661 :: INFO ::   > is it black? ? No
+2018-02-12 22:32:27,662 :: INFO ::   > is it a container? ? Yes
+2018-02-12 22:32:27,662 :: INFO ::   > is it red and green? ? Yes
+2018-02-12 22:32:27,662 :: INFO ::   #> success
+2018-02-12 22:32:27,662 :: INFO :: 
+2018-02-12 22:32:27,662 :: INFO :: Dialogue 30 : 
+2018-02-12 22:32:27,663 :: INFO ::  - picture : http://mscoco.org/images/197245
+2018-02-12 22:32:27,663 :: INFO ::  - object category : cat
+2018-02-12 22:32:27,663 :: INFO ::  - object position : 357.295, 188.57000000000002
+2018-02-12 22:32:27,663 :: INFO ::  - question/answers :
+2018-02-12 22:32:27,663 :: INFO ::   > Is it an animal? ? Yes
+2018-02-12 22:32:27,664 :: INFO ::   #> success
+2018-02-12 22:32:27,664 :: INFO :: 
+2018-02-12 22:32:27,665 :: INFO :: Dialogue 31 : 
+2018-02-12 22:32:27,665 :: INFO ::  - picture : http://mscoco.org/images/422152
+2018-02-12 22:32:27,666 :: INFO ::  - object category : bed
+2018-02-12 22:32:27,666 :: INFO ::  - object position : 250.42499999999998, 154.335
+2018-02-12 22:32:27,666 :: INFO ::  - question/answers :
+2018-02-12 22:32:27,666 :: INFO ::   > is it a dog? ? No
+2018-02-12 22:32:27,667 :: INFO ::   > is it the blanket? ? Yes
+2018-02-12 22:32:27,667 :: INFO ::   #> success
+2018-02-12 22:32:27,667 :: INFO :: 
+2018-02-12 22:32:27,667 :: INFO :: Dialogue 32 : 
+2018-02-12 22:32:27,667 :: INFO ::  - picture : http://mscoco.org/images/154835
+2018-02-12 22:32:27,668 :: INFO ::  - object category : tie
+2018-02-12 22:32:27,668 :: INFO ::  - object position : 229.35, 495.67499999999995
+2018-02-12 22:32:27,668 :: INFO ::  - question/answers :
+2018-02-12 22:32:27,668 :: INFO ::   > Is it metal? ? No
+2018-02-12 22:32:27,669 :: INFO ::   > Is the person wearing it? ? Yes
+2018-02-12 22:32:27,669 :: INFO ::   > is it on his legs? ? No
+2018-02-12 22:32:27,669 :: INFO ::   > is it on his face? ? No
+2018-02-12 22:32:27,669 :: INFO ::   > Is it part of his jacket? ? No
+2018-02-12 22:32:27,669 :: INFO ::   > Is it around his neck? ? Yes
+2018-02-12 22:32:27,670 :: INFO ::   #> success
+2018-02-12 22:32:27,671 :: INFO :: 
+2018-02-12 22:32:27,671 :: INFO :: Dialogue 33 : 
+2018-02-12 22:32:27,671 :: INFO ::  - picture : http://mscoco.org/images/123916
+2018-02-12 22:32:27,671 :: INFO ::  - object category : umbrella
+2018-02-12 22:32:27,672 :: INFO ::  - object position : 365.105, 238.925
+2018-02-12 22:32:27,672 :: INFO ::  - question/answers :
+2018-02-12 22:32:27,672 :: INFO ::   > it is used on a rainy day? ? Yes
+2018-02-12 22:32:27,672 :: INFO ::   #> success
+2018-02-12 22:32:27,673 :: INFO :: 
+2018-02-12 22:32:27,673 :: INFO :: Dialogue 34 : 
+2018-02-12 22:32:27,673 :: INFO ::  - picture : http://mscoco.org/images/267435
+2018-02-12 22:32:27,673 :: INFO ::  - object category : donut
+2018-02-12 22:32:27,674 :: INFO ::  - object position : 200.79500000000002, 289.54499999999996
+2018-02-12 22:32:27,674 :: INFO ::  - question/answers :
+2018-02-12 22:32:27,674 :: INFO ::   > Is it a person? ? No
+2018-02-12 22:32:27,674 :: INFO ::   > Is the main color of the object white? ? No
+2018-02-12 22:32:27,675 :: INFO ::   > Is the object on the table? ? No
+2018-02-12 22:32:27,675 :: INFO ::   > Is the object behind the people? ? No
+2018-02-12 22:32:27,675 :: INFO ::   > Is the object being held by a person? ? Yes
+2018-02-12 22:32:27,675 :: INFO ::   #> success
+2018-02-12 22:32:27,675 :: INFO :: 
+2018-02-12 22:32:27,676 :: INFO :: Dialogue 35 : 
+2018-02-12 22:32:27,676 :: INFO ::  - picture : http://mscoco.org/images/389451
+2018-02-12 22:32:27,676 :: INFO ::  - object category : person
+2018-02-12 22:32:27,676 :: INFO ::  - object position : 328.12, 328.42499999999995
+2018-02-12 22:32:27,677 :: INFO ::  - question/answers :
+2018-02-12 22:32:27,677 :: INFO ::   > is it the boat? ? No
+2018-02-12 22:32:27,677 :: INFO ::   > is it a goat? ? No
+2018-02-12 22:32:27,677 :: INFO ::   > is it a person? ? Yes
+2018-02-12 22:32:27,677 :: INFO ::   > is it on the left? ? No
+2018-02-12 22:32:27,678 :: INFO ::   > is it black? ? No
+2018-02-12 22:32:27,678 :: INFO ::   > is it in the boat? ? Yes
+2018-02-12 22:32:27,678 :: INFO ::   #> success
+2018-02-12 22:32:27,678 :: INFO :: 
+2018-02-12 22:32:27,678 :: INFO :: Dialogue 36 : 
+2018-02-12 22:32:27,679 :: INFO ::  - picture : http://mscoco.org/images/114786
+2018-02-12 22:32:27,679 :: INFO ::  - object category : person
+2018-02-12 22:32:27,679 :: INFO ::  - object position : 91.53, 458.38
+2018-02-12 22:32:27,679 :: INFO ::  - question/answers :
+2018-02-12 22:32:27,680 :: INFO ::   > Is it a human? ? Yes
+2018-02-12 22:32:27,680 :: INFO ::   > Is it a child? ? Yes
+2018-02-12 22:32:27,680 :: INFO ::   #> success
+2018-02-12 22:32:27,680 :: INFO :: 
+2018-02-12 22:32:27,681 :: INFO :: Dialogue 37 : 
+2018-02-12 22:32:27,681 :: INFO ::  - picture : http://mscoco.org/images/72843
+2018-02-12 22:32:27,681 :: INFO ::  - object category : bus
+2018-02-12 22:32:27,681 :: INFO ::  - object position : 96.46000000000001, 51.19999999999995
+2018-02-12 22:32:27,682 :: INFO ::  - question/answers :
+2018-02-12 22:32:27,682 :: INFO ::   > Is it a building? ? No
+2018-02-12 22:32:27,683 :: INFO ::   > Is it a bus? ? Yes
+2018-02-12 22:32:27,683 :: INFO ::   > Is it blurry? ? Yes
+2018-02-12 22:32:27,683 :: INFO ::   #> success
+2018-02-12 22:32:27,683 :: INFO :: 
+2018-02-12 22:32:27,683 :: INFO :: Dialogue 38 : 
+2018-02-12 22:32:27,684 :: INFO ::  - picture : http://mscoco.org/images/129631
+2018-02-12 22:32:27,684 :: INFO ::  - object category : horse
+2018-02-12 22:32:27,684 :: INFO ::  - object position : 159.46, 298.87
+2018-02-12 22:32:27,684 :: INFO ::  - question/answers :
+2018-02-12 22:32:27,685 :: INFO ::   > Is it large? ? Yes
+2018-02-12 22:32:27,685 :: INFO ::   #> success
+2018-02-12 22:32:27,685 :: INFO :: 
+2018-02-12 22:32:27,685 :: INFO :: Dialogue 39 : 
+2018-02-12 22:32:27,685 :: INFO ::  - picture : http://mscoco.org/images/428787
+2018-02-12 22:32:27,686 :: INFO ::  - object category : horse
+2018-02-12 22:32:27,686 :: INFO ::  - object position : 485.71500000000003, 221.51000000000002
+2018-02-12 22:32:27,686 :: INFO ::  - question/answers :
+2018-02-12 22:32:27,686 :: INFO ::   > Is it an animal? ? Yes
+2018-02-12 22:32:27,687 :: INFO ::   > Is it wearing a dress? ? No
+2018-02-12 22:32:27,687 :: INFO ::   > Does it have a bow tie? ? No
+2018-02-12 22:32:27,687 :: INFO ::   > Does it have a harness? ? Yes
+2018-02-12 22:32:27,687 :: INFO ::   #> success
+2018-02-12 22:32:27,687 :: INFO :: 
+2018-02-12 22:32:27,688 :: INFO :: Dialogue 40 : 
+2018-02-12 22:32:27,688 :: INFO ::  - picture : http://mscoco.org/images/471825
+2018-02-12 22:32:27,688 :: INFO ::  - object category : tennis racket
+2018-02-12 22:32:27,688 :: INFO ::  - object position : 61.17, 276.1
+2018-02-12 22:32:27,689 :: INFO ::  - question/answers :
+2018-02-12 22:32:27,689 :: INFO ::   > Is it a human? ? No
+2018-02-12 22:32:27,689 :: INFO ::   > Is it yellow/almost yellow? ? No
+2018-02-12 22:32:27,689 :: INFO ::   > Is it a clothing/apparel item? ? No
+2018-02-12 22:32:27,689 :: INFO ::   > Is it an ad banner? ? No
+2018-02-12 22:32:27,690 :: INFO ::   > Is it in the bottom half of the image? ? Yes
+2018-02-12 22:32:27,690 :: INFO ::   > Is it a tennis playing equipment piece? ? Yes
+2018-02-12 22:32:27,690 :: INFO ::   #> success
+2018-02-12 22:32:27,690 :: INFO :: 
+2018-02-12 22:32:27,691 :: INFO :: Dialogue 41 : 
+2018-02-12 22:32:27,691 :: INFO ::  - picture : http://mscoco.org/images/440707
+2018-02-12 22:32:27,691 :: INFO ::  - object category : truck
+2018-02-12 22:32:27,691 :: INFO ::  - object position : 87.445, 81.975
+2018-02-12 22:32:27,691 :: INFO ::  - question/answers :
+2018-02-12 22:32:27,692 :: INFO ::   > is it a number? ? No
+2018-02-12 22:32:27,692 :: INFO ::   > is it a person? ? No
+2018-02-12 22:32:27,692 :: INFO ::   > is it a car? ? Yes
+2018-02-12 22:32:27,692 :: INFO ::   #> success
+2018-02-12 22:32:27,692 :: INFO :: 
+2018-02-12 22:32:27,693 :: INFO :: Dialogue 42 : 
+2018-02-12 22:32:27,693 :: INFO ::  - picture : http://mscoco.org/images/136833
+2018-02-12 22:32:27,693 :: INFO ::  - object category : motorcycle
+2018-02-12 22:32:27,693 :: INFO ::  - object position : 253.67000000000002, 111.67999999999999
+2018-02-12 22:32:27,693 :: INFO ::  - question/answers :
+2018-02-12 22:32:27,694 :: INFO ::   > Is it a person? ? No
+2018-02-12 22:32:27,694 :: INFO ::   > Is it in the foreground? ? Yes
+2018-02-12 22:32:27,694 :: INFO ::   > Is it a vehicle? ? Yes
+2018-02-12 22:32:27,694 :: INFO ::   > Is the full vehicle visible? ? No
+2018-02-12 22:32:27,694 :: INFO ::   #> success
+2018-02-12 22:32:27,695 :: INFO :: 
+2018-02-12 22:32:27,695 :: INFO :: Dialogue 43 : 
+2018-02-12 22:32:27,695 :: INFO ::  - picture : http://mscoco.org/images/306733
+2018-02-12 22:32:27,695 :: INFO ::  - object category : bottle
+2018-02-12 22:32:27,695 :: INFO ::  - object position : 594.3050000000001, 82.35499999999999
+2018-02-12 22:32:27,696 :: INFO ::  - question/answers :
+2018-02-12 22:32:27,696 :: INFO ::   > is it a plant? ? No
+2018-02-12 22:32:27,696 :: INFO ::   > is it on the wall? ? No
+2018-02-12 22:32:27,696 :: INFO ::   > is it reflected in the mirror? ? No
+2018-02-12 22:32:27,696 :: INFO ::   > does it contain a picture? ? No
+2018-02-12 22:32:27,697 :: INFO ::   > is it by the tub? ? Yes
+2018-02-12 22:32:27,697 :: INFO ::   > is it a bottle? ? Yes
+2018-02-12 22:32:27,697 :: INFO ::   > is it closer to the faucet? ? No
+2018-02-12 22:32:27,697 :: INFO ::   #> success
+2018-02-12 22:32:27,697 :: INFO :: 
+2018-02-12 22:32:27,698 :: INFO :: Dialogue 44 : 
+2018-02-12 22:32:27,698 :: INFO ::  - picture : http://mscoco.org/images/41818
+2018-02-12 22:32:27,698 :: INFO ::  - object category : oven
+2018-02-12 22:32:27,699 :: INFO ::  - object position : 319.735, 97.53
+2018-02-12 22:32:27,699 :: INFO ::  - question/answers :
+2018-02-12 22:32:27,699 :: INFO ::   > Is it a liquid? ? No
+2018-02-12 22:32:27,699 :: INFO ::   > Is it a person? ? No
+2018-02-12 22:32:27,699 :: INFO ::   > Is it in the background? ? Yes
+2018-02-12 22:32:27,700 :: INFO ::   > Is it on the left side? ? No
+2018-02-12 22:32:27,700 :: INFO ::   > Is it in between the people? ? Yes
+2018-02-12 22:32:27,700 :: INFO ::   > Is it the oven? ? Yes
+2018-02-12 22:32:27,700 :: INFO ::   #> success
+2018-02-12 22:32:27,700 :: INFO :: 
+2018-02-12 22:32:27,701 :: INFO :: Dialogue 45 : 
+2018-02-12 22:32:27,701 :: INFO ::  - picture : http://mscoco.org/images/288408
+2018-02-12 22:32:27,701 :: INFO ::  - object category : snowboard
+2018-02-12 22:32:27,701 :: INFO ::  - object position : 293.16499999999996, 120.74499999999998
+2018-02-12 22:32:27,701 :: INFO ::  - question/answers :
+2018-02-12 22:32:27,702 :: INFO ::   > Is is a person? ? No
+2018-02-12 22:32:27,702 :: INFO ::   > Is it on the floor? ? Yes
+2018-02-12 22:32:27,702 :: INFO ::   > is the person standing on it? ? Yes
+2018-02-12 22:32:27,702 :: INFO ::   > is the main color of it white? ? Yes
+2018-02-12 22:32:27,702 :: INFO ::   #> success
+2018-02-12 22:32:27,703 :: INFO :: 
+2018-02-12 22:32:27,703 :: INFO :: Dialogue 46 : 
+2018-02-12 22:32:27,703 :: INFO ::  - picture : http://mscoco.org/images/523807
+2018-02-12 22:32:27,703 :: INFO ::  - object category : person
+2018-02-12 22:32:27,703 :: INFO ::  - object position : 455.08000000000004, 151.855
+2018-02-12 22:32:27,704 :: INFO ::  - question/answers :
+2018-02-12 22:32:27,704 :: INFO ::   > is it food? ? No
+2018-02-12 22:32:27,704 :: INFO ::   > is it a bottle? ? No
+2018-02-12 22:32:27,704 :: INFO ::   > is it a sauce? ? No
+2018-02-12 22:32:27,704 :: INFO ::   > is it a container? ? No
+2018-02-12 22:32:27,705 :: INFO ::   > is it a table? ? No
+2018-02-12 22:32:27,705 :: INFO ::   #> success
+2018-02-12 22:32:27,705 :: INFO :: 
+2018-02-12 22:32:27,705 :: INFO :: Dialogue 47 : 
+2018-02-12 22:32:27,705 :: INFO ::  - picture : http://mscoco.org/images/72797
+2018-02-12 22:32:27,706 :: INFO ::  - object category : sports ball
+2018-02-12 22:32:27,706 :: INFO ::  - object position : 316.755, 308.96
+2018-02-12 22:32:27,707 :: INFO ::  - question/answers :
+2018-02-12 22:32:27,707 :: INFO ::   > is it a person? ? No
+2018-02-12 22:32:27,707 :: INFO ::   > can you hit a ball with it? ? No
+2018-02-12 22:32:27,707 :: INFO ::   > is it yellowish green? ? Yes
+2018-02-12 22:32:27,708 :: INFO ::   #> success
+2018-02-12 22:32:27,708 :: INFO :: 
+2018-02-12 22:32:27,708 :: INFO :: Dialogue 48 : 
+2018-02-12 22:32:27,708 :: INFO ::  - picture : http://mscoco.org/images/202740
+2018-02-12 22:32:27,708 :: INFO ::  - object category : laptop
+2018-02-12 22:32:27,709 :: INFO ::  - object position : 232.165, 84.27
+2018-02-12 22:32:27,709 :: INFO ::  - question/answers :
+2018-02-12 22:32:27,709 :: INFO ::   > is it an electronic? ? Yes
+2018-02-12 22:32:27,709 :: INFO ::   #> success
+2018-02-12 22:32:27,709 :: INFO :: 
+2018-02-12 22:32:27,710 :: INFO :: Dialogue 49 : 
+2018-02-12 22:32:27,710 :: INFO ::  - picture : http://mscoco.org/images/528466
+2018-02-12 22:32:27,710 :: INFO ::  - object category : knife
+2018-02-12 22:32:27,710 :: INFO ::  - object position : 309.935, 32.260000000000005
+2018-02-12 22:32:27,710 :: INFO ::  - question/answers :
+2018-02-12 22:32:27,711 :: INFO ::   > Is it food? ? No
+2018-02-12 22:32:27,711 :: INFO ::   > Is it a utensil? ? Yes
+2018-02-12 22:32:27,712 :: INFO ::   > Is it the wooden spoon? ? No
+2018-02-12 22:32:27,712 :: INFO ::   > Is it the knife? ? Yes
+2018-02-12 22:32:27,712 :: INFO ::   #> success
+2018-02-12 22:32:27,712 :: INFO :: 
+2018-02-12 22:32:27,712 :: INFO :: Dialogue 50 : 
+2018-02-12 22:32:27,713 :: INFO ::  - picture : http://mscoco.org/images/504534
+2018-02-12 22:32:27,713 :: INFO ::  - object category : person
+2018-02-12 22:32:27,713 :: INFO ::  - object position : 413.83, 179.47
+2018-02-12 22:32:27,713 :: INFO ::  - question/answers :
+2018-02-12 22:32:27,713 :: INFO ::   > is it a person? ? Yes
+2018-02-12 22:32:27,714 :: INFO ::   > is he on the right? ? Yes
+2018-02-12 22:32:27,714 :: INFO ::   #> success
+2018-02-12 22:32:27,714 :: INFO :: 
+2018-02-12 22:32:27,715 :: INFO :: Dialogue 51 : 
+2018-02-12 22:32:27,715 :: INFO ::  - picture : http://mscoco.org/images/1888
+2018-02-12 22:32:27,715 :: INFO ::  - object category : apple
+2018-02-12 22:32:27,715 :: INFO ::  - object position : 63.8, 111.52000000000001
+2018-02-12 22:32:27,715 :: INFO ::  - question/answers :
+2018-02-12 22:32:27,715 :: INFO ::   > is it meat? ? No
+2018-02-12 22:32:27,716 :: INFO ::   > Is it an apple? ? Yes
+2018-02-12 22:32:27,717 :: INFO ::   #> success
+2018-02-12 22:32:27,717 :: INFO :: 
+2018-02-12 22:32:27,717 :: INFO :: Dialogue 52 : 
+2018-02-12 22:32:27,717 :: INFO ::  - picture : http://mscoco.org/images/309086
+2018-02-12 22:32:27,718 :: INFO ::  - object category : person
+2018-02-12 22:32:27,718 :: INFO ::  - object position : 99.045, 189.845
+2018-02-12 22:32:27,718 :: INFO ::  - question/answers :
+2018-02-12 22:32:27,718 :: INFO ::   > Is it a person? ? Yes
+2018-02-12 22:32:27,719 :: INFO ::   > Is he wearing a white shirt? ? Yes
+2018-02-12 22:32:27,719 :: INFO ::   > are his arms crossed? ? No
+2018-02-12 22:32:27,719 :: INFO ::   #> success
+2018-02-12 22:32:27,719 :: INFO :: 
+2018-02-12 22:32:27,719 :: INFO :: Dialogue 53 : 
+2018-02-12 22:32:27,719 :: INFO ::  - picture : http://mscoco.org/images/512403
+2018-02-12 22:32:27,720 :: INFO ::  - object category : vase
+2018-02-12 22:32:27,720 :: INFO ::  - object position : 440.68, 159.88
+2018-02-12 22:32:27,720 :: INFO ::  - question/answers :
+2018-02-12 22:32:27,720 :: INFO ::   > Was it ever a part of a bird? ? No
+2018-02-12 22:32:27,721 :: INFO ::   > Does it have a painting on it? ? Yes
+2018-02-12 22:32:27,721 :: INFO ::   > Is it a book? ? No
+2018-02-12 22:32:27,721 :: INFO ::   > Is it a vase? ? Yes
+2018-02-12 22:32:27,721 :: INFO ::   #> success
+2018-02-12 22:32:27,721 :: INFO :: 
+2018-02-12 22:32:27,721 :: INFO :: Dialogue 54 : 
+2018-02-12 22:32:27,722 :: INFO ::  - picture : http://mscoco.org/images/80522
+2018-02-12 22:32:27,722 :: INFO ::  - object category : truck
+2018-02-12 22:32:27,722 :: INFO ::  - object position : 416.695, 276.545
+2018-02-12 22:32:27,722 :: INFO ::  - question/answers :
+2018-02-12 22:32:27,723 :: INFO ::   > person place or thing? ? N/A
+2018-02-12 22:32:27,723 :: INFO ::   > is it a person? ? No
+2018-02-12 22:32:27,723 :: INFO ::   > is it an animal? ? No
+2018-02-12 22:32:27,723 :: INFO ::   > is it a vehicle? ? Yes
+2018-02-12 22:32:27,723 :: INFO ::   > is it 4 wheels? ? Yes
+2018-02-12 22:32:27,724 :: INFO ::   #> success
+2018-02-12 22:32:27,724 :: INFO :: 
+2018-02-12 22:32:27,724 :: INFO :: Dialogue 55 : 
+2018-02-12 22:32:27,724 :: INFO ::  - picture : http://mscoco.org/images/120642
+2018-02-12 22:32:27,725 :: INFO ::  - object category : bicycle
+2018-02-12 22:32:27,725 :: INFO ::  - object position : 6.795, 66.37
+2018-02-12 22:32:27,725 :: INFO ::  - question/answers :
+2018-02-12 22:32:27,725 :: INFO ::   > Is it a sign? ? No
+2018-02-12 22:32:27,725 :: INFO ::   > Is it white? ? No
+2018-02-12 22:32:27,726 :: INFO ::   > Is it on the street? ? Yes
+2018-02-12 22:32:27,726 :: INFO ::   > Is it black? ? Yes
+2018-02-12 22:32:27,726 :: INFO ::   > Is it on the left? ? Yes
+2018-02-12 22:32:27,726 :: INFO ::   > Is it rectangular? ? No
+2018-02-12 22:32:27,726 :: INFO ::   > Is it a post? ? No
+2018-02-12 22:32:27,727 :: INFO ::   > Is it a light? ? No
+2018-02-12 22:32:27,727 :: INFO ::   #> success
+2018-02-12 22:32:27,727 :: INFO :: 
+2018-02-12 22:32:27,727 :: INFO :: Dialogue 56 : 
+2018-02-12 22:32:27,728 :: INFO ::  - picture : http://mscoco.org/images/18450
+2018-02-12 22:32:27,728 :: INFO ::  - object category : person
+2018-02-12 22:32:27,728 :: INFO ::  - object position : 375.805, 584.64
+2018-02-12 22:32:27,728 :: INFO ::  - question/answers :
+2018-02-12 22:32:27,728 :: INFO ::   > Is the object in the background? ? No
+2018-02-12 22:32:27,729 :: INFO ::   > Is the object fully visible? ? No
+2018-02-12 22:32:27,729 :: INFO ::   > Does the object have a blue band on it? ? Yes
+2018-02-12 22:32:27,729 :: INFO ::   #> success
+2018-02-12 22:32:27,729 :: INFO :: 
+2018-02-12 22:32:27,730 :: INFO :: Dialogue 57 : 
+2018-02-12 22:32:27,730 :: INFO ::  - picture : http://mscoco.org/images/99810
+2018-02-12 22:32:27,730 :: INFO ::  - object category : donut
+2018-02-12 22:32:27,731 :: INFO ::  - object position : 399.90500000000003, 50.58999999999999
+2018-02-12 22:32:27,731 :: INFO ::  - question/answers :
+2018-02-12 22:32:27,731 :: INFO ::   > Is it a person? ? No
+2018-02-12 22:32:27,731 :: INFO ::   > Is it a doughnut hole? ? Yes
+2018-02-12 22:32:27,731 :: INFO ::   > Is it on the plate? ? Yes
+2018-02-12 22:32:27,731 :: INFO ::   > is it in the row closer to the boy? ? Yes
+2018-02-12 22:32:27,732 :: INFO ::   > is it to the left when facing the boy? ? No
+2018-02-12 22:32:27,732 :: INFO ::   #> success
+2018-02-12 22:32:27,732 :: INFO :: 
+2018-02-12 22:32:27,732 :: INFO :: Dialogue 58 : 
+2018-02-12 22:32:27,733 :: INFO ::  - picture : http://mscoco.org/images/473055
+2018-02-12 22:32:27,733 :: INFO ::  - object category : bottle
+2018-02-12 22:32:27,733 :: INFO ::  - object position : 630.4449999999999, 41.08000000000003
+2018-02-12 22:32:27,733 :: INFO ::  - question/answers :
+2018-02-12 22:32:27,733 :: INFO ::   > is it an object? ? Yes
+2018-02-12 22:32:27,734 :: INFO ::   > is it a brush? ? No
+2018-02-12 22:32:27,734 :: INFO ::   > is it a towel? ? No
+2018-02-12 22:32:27,734 :: INFO ::   > is it soap? ? Yes
+2018-02-12 22:32:27,734 :: INFO ::   #> success
+2018-02-12 22:32:27,734 :: INFO :: 
+2018-02-12 22:32:27,735 :: INFO :: Dialogue 59 : 
+2018-02-12 22:32:27,735 :: INFO ::  - picture : http://mscoco.org/images/364992
+2018-02-12 22:32:27,735 :: INFO ::  - object category : train
+2018-02-12 22:32:27,735 :: INFO ::  - object position : 294.75, 260.96
+2018-02-12 22:32:27,735 :: INFO ::  - question/answers :
+2018-02-12 22:32:27,736 :: INFO ::   > does it move? ? Yes
+2018-02-12 22:32:27,736 :: INFO ::   #> success
+2018-02-12 22:32:27,736 :: INFO :: 
+2018-02-12 22:32:27,736 :: INFO :: Dialogue 60 : 
+2018-02-12 22:32:27,736 :: INFO ::  - picture : http://mscoco.org/images/151567
+2018-02-12 22:32:27,737 :: INFO ::  - object category : person
+2018-02-12 22:32:27,737 :: INFO ::  - object position : 176.57000000000002, 385.54
+2018-02-12 22:32:27,737 :: INFO ::  - question/answers :
+2018-02-12 22:32:27,737 :: INFO ::   > Is it an animal? ? No
+2018-02-12 22:32:27,737 :: INFO ::   > Is it a liquid? ? No
+2018-02-12 22:32:27,738 :: INFO ::   > Does it hold water? ? No
+2018-02-12 22:32:27,738 :: INFO ::   > Is it a person? ? Yes
+2018-02-12 22:32:27,738 :: INFO ::   #> success
+2018-02-12 22:32:27,738 :: INFO :: 
+2018-02-12 22:32:27,738 :: INFO :: Dialogue 61 : 
+2018-02-12 22:32:27,739 :: INFO ::  - picture : http://mscoco.org/images/249764
+2018-02-12 22:32:27,739 :: INFO ::  - object category : hair drier
+2018-02-12 22:32:27,739 :: INFO ::  - object position : 451.265, 287.47
+2018-02-12 22:32:27,739 :: INFO ::  - question/answers :
+2018-02-12 22:32:27,740 :: INFO ::   > Is the object a person? ? No
+2018-02-12 22:32:27,740 :: INFO ::   > Is the person holding the object? ? Yes
+2018-02-12 22:32:27,740 :: INFO ::   #> success
+2018-02-12 22:32:27,740 :: INFO :: 
+2018-02-12 22:32:27,741 :: INFO :: Dialogue 62 : 
+2018-02-12 22:32:27,741 :: INFO ::  - picture : http://mscoco.org/images/479944
+2018-02-12 22:32:27,741 :: INFO ::  - object category : scissors
+2018-02-12 22:32:27,741 :: INFO ::  - object position : 97.01, 216.01999999999998
+2018-02-12 22:32:27,741 :: INFO ::  - question/answers :
+2018-02-12 22:32:27,742 :: INFO ::   > is it a person? ? No
+2018-02-12 22:32:27,742 :: INFO ::   > is it being held by a person? ? Yes
+2018-02-12 22:32:27,742 :: INFO ::   #> success
+2018-02-12 22:32:27,742 :: INFO :: 
+2018-02-12 22:32:27,742 :: INFO :: Dialogue 63 : 
+2018-02-12 22:32:27,743 :: INFO ::  - picture : http://mscoco.org/images/28674
+2018-02-12 22:32:27,743 :: INFO ::  - object category : chair
+2018-02-12 22:32:27,743 :: INFO ::  - object position : 52.645, 88.41499999999998
+2018-02-12 22:32:27,743 :: INFO ::  - question/answers :
+2018-02-12 22:32:27,743 :: INFO ::   > is it a person? ? No
+2018-02-12 22:32:27,744 :: INFO ::   > is it an electronic? ? No
+2018-02-12 22:32:27,744 :: INFO ::   > is it a pen? ? No
+2018-02-12 22:32:27,744 :: INFO ::   > is it a crutch? ? No
+2018-02-12 22:32:27,744 :: INFO ::   > is it a chair? ? Yes
+2018-02-12 22:32:27,744 :: INFO ::   #> success
+2018-02-12 22:32:27,745 :: INFO :: 
+2018-02-12 22:32:27,745 :: INFO :: Dialogue 64 : 
+2018-02-12 22:32:27,745 :: INFO ::  - picture : http://mscoco.org/images/368205
+2018-02-12 22:32:27,745 :: INFO ::  - object category : cow
+2018-02-12 22:32:27,745 :: INFO ::  - object position : 363.885, 205.725
+2018-02-12 22:32:27,746 :: INFO ::  - question/answers :
+2018-02-12 22:32:27,746 :: INFO ::   > Is it an animal? ? Yes
+2018-02-12 22:32:27,746 :: INFO ::   > Is it the darker colored cow? ? Yes
+2018-02-12 22:32:27,746 :: INFO ::   #> success
+2018-02-12 22:32:27,747 :: INFO :: 
+2018-02-12 22:32:27,747 :: INFO :: Dialogue 65 : 
+2018-02-12 22:32:27,747 :: INFO ::  - picture : http://mscoco.org/images/19783
+2018-02-12 22:32:27,747 :: INFO ::  - object category : donut
+2018-02-12 22:32:27,748 :: INFO ::  - object position : 236.47, 233.505
+2018-02-12 22:32:27,748 :: INFO ::  - question/answers :
+2018-02-12 22:32:27,748 :: INFO ::   > is it a bird? ? No
+2018-02-12 22:32:27,749 :: INFO ::   > is it in the water? ? No
+2018-02-12 22:32:27,749 :: INFO ::   > is it the persons arm? ? No
+2018-02-12 22:32:27,749 :: INFO ::   > is it in a bird beak? ? Yes
+2018-02-12 22:32:27,749 :: INFO ::   #> success
+2018-02-12 22:32:27,749 :: INFO :: 
+2018-02-12 22:32:27,750 :: INFO :: Dialogue 66 : 
+2018-02-12 22:32:27,750 :: INFO ::  - picture : http://mscoco.org/images/252381
+2018-02-12 22:32:27,750 :: INFO ::  - object category : bowl
+2018-02-12 22:32:27,750 :: INFO ::  - object position : 525.66, 55.14500000000002
+2018-02-12 22:32:27,750 :: INFO ::  - question/answers :
+2018-02-12 22:32:27,751 :: INFO ::   > Is it edible? ? No
+2018-02-12 22:32:27,751 :: INFO ::   > Is it clear? ? Yes
+2018-02-12 22:32:27,751 :: INFO ::   > Is it on the right side of the photo? ? Yes
+2018-02-12 22:32:27,751 :: INFO ::   #> success
+2018-02-12 22:32:27,751 :: INFO :: 
+2018-02-12 22:32:27,751 :: INFO :: Dialogue 67 : 
+2018-02-12 22:32:27,752 :: INFO ::  - picture : http://mscoco.org/images/380447
+2018-02-12 22:32:27,752 :: INFO ::  - object category : bicycle
+2018-02-12 22:32:27,752 :: INFO ::  - object position : 439.81, 91.85
+2018-02-12 22:32:27,752 :: INFO ::  - question/answers :
+2018-02-12 22:32:27,752 :: INFO ::   > is it a bike? ? Yes
+2018-02-12 22:32:27,753 :: INFO ::   > is it parked? ? No
+2018-02-12 22:32:27,753 :: INFO ::   > Is it being ridden? ? Yes
+2018-02-12 22:32:27,753 :: INFO ::   #> success
+2018-02-12 22:32:27,754 :: INFO :: 
+2018-02-12 22:32:27,754 :: INFO :: Dialogue 68 : 
+2018-02-12 22:32:27,754 :: INFO ::  - picture : http://mscoco.org/images/39399
+2018-02-12 22:32:27,754 :: INFO ::  - object category : dining table
+2018-02-12 22:32:27,755 :: INFO ::  - object position : 307.03, 208.88
+2018-02-12 22:32:27,755 :: INFO ::  - question/answers :
+2018-02-12 22:32:27,755 :: INFO ::   > Is it man made? ? Yes
+2018-02-12 22:32:27,755 :: INFO ::   > Is it the bench? ? No
+2018-02-12 22:32:27,756 :: INFO ::   > Is it the table? ? Yes
+2018-02-12 22:32:27,756 :: INFO ::   #> success
+2018-02-12 22:32:27,756 :: INFO :: 
+2018-02-12 22:32:27,756 :: INFO :: Dialogue 69 : 
+2018-02-12 22:32:27,756 :: INFO ::  - picture : http://mscoco.org/images/333376
+2018-02-12 22:32:27,757 :: INFO ::  - object category : clock
+2018-02-12 22:32:27,757 :: INFO ::  - object position : 291.11, 507.235
+2018-02-12 22:32:27,757 :: INFO ::  - question/answers :
+2018-02-12 22:32:27,757 :: INFO ::   > is it a clock? ? Yes
+2018-02-12 22:32:27,757 :: INFO ::   > is it on a box? ? Yes
+2018-02-12 22:32:27,758 :: INFO ::   #> success
+2018-02-12 22:32:27,758 :: INFO :: 
+2018-02-12 22:32:27,758 :: INFO :: Dialogue 70 : 
+2018-02-12 22:32:27,758 :: INFO ::  - picture : http://mscoco.org/images/31948
+2018-02-12 22:32:27,759 :: INFO ::  - object category : person
+2018-02-12 22:32:27,759 :: INFO ::  - object position : 387.40000000000003, 364.815
+2018-02-12 22:32:27,759 :: INFO ::  - question/answers :
+2018-02-12 22:32:27,759 :: INFO ::   > Is it part of one of the trains? ? No
+2018-02-12 22:32:27,759 :: INFO ::   > Is it a person? ? Yes
+2018-02-12 22:32:27,760 :: INFO ::   #> success
+2018-02-12 22:32:27,760 :: INFO :: 
+2018-02-12 22:32:27,760 :: INFO :: Dialogue 71 : 
+2018-02-12 22:32:27,760 :: INFO ::  - picture : http://mscoco.org/images/470005
+2018-02-12 22:32:27,760 :: INFO ::  - object category : book
+2018-02-12 22:32:27,761 :: INFO ::  - object position : 268.96000000000004, 291.25
+2018-02-12 22:32:27,761 :: INFO ::  - question/answers :
+2018-02-12 22:32:27,761 :: INFO ::   > is it a person? ? No
+2018-02-12 22:32:27,763 :: INFO ::   > is it silver? ? No
+2018-02-12 22:32:27,763 :: INFO ::   > can you cover up with it? ? No
+2018-02-12 22:32:27,763 :: INFO ::   > is it white? ? Yes
+2018-02-12 22:32:27,764 :: INFO ::   > do you rest your head on it at night? ? No
+2018-02-12 22:32:27,764 :: INFO ::   > is it paper? ? Yes
+2018-02-12 22:32:27,764 :: INFO ::   #> success
+2018-02-12 22:32:27,764 :: INFO :: 
+2018-02-12 22:32:27,764 :: INFO :: Dialogue 72 : 
+2018-02-12 22:32:27,765 :: INFO ::  - picture : http://mscoco.org/images/301461
+2018-02-12 22:32:27,765 :: INFO ::  - object category : truck
+2018-02-12 22:32:27,765 :: INFO ::  - object position : 530.225, 378.57000000000005
+2018-02-12 22:32:27,765 :: INFO ::  - question/answers :
+2018-02-12 22:32:27,765 :: INFO ::   > is it a person? ? No
+2018-02-12 22:32:27,766 :: INFO ::   > it is an animal? ? No
+2018-02-12 22:32:27,766 :: INFO ::   > is it on the man in yellow? ? No
+2018-02-12 22:32:27,766 :: INFO ::   > is it an automobile? ? No
+2018-02-12 22:32:27,766 :: INFO ::   > is it blue in color? ? Yes
+2018-02-12 22:32:27,766 :: INFO ::   #> success
+2018-02-12 22:32:27,767 :: INFO :: 
+2018-02-12 22:32:27,767 :: INFO :: Dialogue 73 : 
+2018-02-12 22:32:27,767 :: INFO ::  - picture : http://mscoco.org/images/49586
+2018-02-12 22:32:27,767 :: INFO ::  - object category : motorcycle
+2018-02-12 22:32:27,767 :: INFO ::  - object position : 43.19, 382.26
+2018-02-12 22:32:27,768 :: INFO ::  - question/answers :
+2018-02-12 22:32:27,768 :: INFO ::   > is it a motorcycle? ? Yes
+2018-02-12 22:32:27,768 :: INFO ::   > is it blue? ? No
+2018-02-12 22:32:27,768 :: INFO ::   > does it have flames? ? Yes
+2018-02-12 22:32:27,768 :: INFO ::   #> success
+2018-02-12 22:32:27,769 :: INFO :: 
+2018-02-12 22:32:27,769 :: INFO :: Dialogue 74 : 
+2018-02-12 22:32:27,769 :: INFO ::  - picture : http://mscoco.org/images/402885
+2018-02-12 22:32:27,769 :: INFO ::  - object category : kite
+2018-02-12 22:32:27,770 :: INFO ::  - object position : 193.185, 371.36
+2018-02-12 22:32:27,770 :: INFO ::  - question/answers :
+2018-02-12 22:32:27,770 :: INFO ::   > is it a person? ? No
+2018-02-12 22:32:27,771 :: INFO ::   > Is it a boat? ? No
+2018-02-12 22:32:27,771 :: INFO ::   > Is it touching the water? ? No
+2018-02-12 22:32:27,771 :: INFO ::   > It is flying in the sky? ? Yes
+2018-02-12 22:32:27,771 :: INFO ::   > Is it red? ? Yes
+2018-02-12 22:32:27,771 :: INFO ::   > Is it the red cord attached to the man? ? No
+2018-02-12 22:32:27,772 :: INFO ::   #> success
+2018-02-12 22:32:27,772 :: INFO :: 
+2018-02-12 22:32:27,772 :: INFO :: Dialogue 75 : 
+2018-02-12 22:32:27,772 :: INFO ::  - picture : http://mscoco.org/images/103936
+2018-02-12 22:32:27,773 :: INFO ::  - object category : bus
+2018-02-12 22:32:27,773 :: INFO ::  - object position : 240.0, 320.0
+2018-02-12 22:32:27,773 :: INFO ::  - question/answers :
+2018-02-12 22:32:27,773 :: INFO ::   > is it a word? ? Yes
+2018-02-12 22:32:27,773 :: INFO ::   > does it start with M? ? Yes
+2018-02-12 22:32:27,774 :: INFO ::   > does it end with A? ? Yes
+2018-02-12 22:32:27,774 :: INFO ::   #> success
+2018-02-12 22:32:27,774 :: INFO :: 
+2018-02-12 22:32:27,774 :: INFO :: Dialogue 76 : 
+2018-02-12 22:32:27,774 :: INFO ::  - picture : http://mscoco.org/images/264091
+2018-02-12 22:32:27,775 :: INFO ::  - object category : surfboard
+2018-02-12 22:32:27,775 :: INFO ::  - object position : 325.945, 256.51500000000004
+2018-02-12 22:32:27,775 :: INFO ::  - question/answers :
+2018-02-12 22:32:27,775 :: INFO ::   > Is it a human? ? No
+2018-02-12 22:32:27,775 :: INFO ::   > Is it in the top third of the image? ? No
+2018-02-12 22:32:27,776 :: INFO ::   > Is it a piece of clothing? ? No
+2018-02-12 22:32:27,776 :: INFO ::   > It it a piece of sport equipment? ? Yes
+2018-02-12 22:32:27,776 :: INFO ::   #> success
+2018-02-12 22:32:27,776 :: INFO :: 
+2018-02-12 22:32:27,776 :: INFO :: Dialogue 77 : 
+2018-02-12 22:32:27,776 :: INFO ::  - picture : http://mscoco.org/images/138217
+2018-02-12 22:32:27,777 :: INFO ::  - object category : person
+2018-02-12 22:32:27,777 :: INFO ::  - object position : 403.05499999999995, 271.385
+2018-02-12 22:32:27,777 :: INFO ::  - question/answers :
+2018-02-12 22:32:27,777 :: INFO ::   > Is it a person? ? Yes
+2018-02-12 22:32:27,778 :: INFO ::   > Are they in the foreground? ? No
+2018-02-12 22:32:27,778 :: INFO ::   > Are they wearing blue? ? Yes
+2018-02-12 22:32:27,778 :: INFO ::   #> success
+2018-02-12 22:32:27,778 :: INFO :: 
+2018-02-12 22:32:27,778 :: INFO :: Dialogue 78 : 
+2018-02-12 22:32:27,778 :: INFO ::  - picture : http://mscoco.org/images/466664
+2018-02-12 22:32:27,779 :: INFO ::  - object category : bottle
+2018-02-12 22:32:27,779 :: INFO ::  - object position : 143.505, 368.37499999999994
+2018-02-12 22:32:27,779 :: INFO ::  - question/answers :
+2018-02-12 22:32:27,779 :: INFO ::   > Is it a personal care item? ? Yes
+2018-02-12 22:32:27,779 :: INFO ::   > Is it a book? ? No
+2018-02-12 22:32:27,780 :: INFO ::   > Is it an apparel item or accessory? ? No
+2018-02-12 22:32:27,780 :: INFO ::   > Is it a cord? ? No
+2018-02-12 22:32:27,780 :: INFO ::   > Is it the ipod? ? No
+2018-02-12 22:32:27,780 :: INFO ::   > Is it the wallet? ? No
+2018-02-12 22:32:27,780 :: INFO ::   > Is it in the back row of items? ? Yes
+2018-02-12 22:32:27,781 :: INFO ::   > Is it a blue bottle? ? Yes
+2018-02-12 22:32:27,781 :: INFO ::   > Is it the second from the left? ? Yes
+2018-02-12 22:32:27,781 :: INFO ::   #> success
+2018-02-12 22:32:27,781 :: INFO :: 
+2018-02-12 22:32:27,782 :: INFO :: Dialogue 79 : 
+2018-02-12 22:32:27,782 :: INFO ::  - picture : http://mscoco.org/images/239318
+2018-02-12 22:32:27,782 :: INFO ::  - object category : laptop
+2018-02-12 22:32:27,782 :: INFO ::  - object position : 197.3, 286.98
+2018-02-12 22:32:27,783 :: INFO ::  - question/answers :
+2018-02-12 22:32:27,783 :: INFO ::   > is it big? ? Yes
+2018-02-12 22:32:27,783 :: INFO ::   > is it made of wood? ? No
+2018-02-12 22:32:27,783 :: INFO ::   > is it plastic? ? No
+2018-02-12 22:32:27,783 :: INFO ::   > is it used to display things? ? Yes
+2018-02-12 22:32:27,784 :: INFO ::   #> success
+2018-02-12 22:32:27,784 :: INFO :: 
+2018-02-12 22:32:27,784 :: INFO :: Dialogue 80 : 
+2018-02-12 22:32:27,784 :: INFO ::  - picture : http://mscoco.org/images/324252
+2018-02-12 22:32:27,784 :: INFO ::  - object category : skateboard
+2018-02-12 22:32:27,785 :: INFO ::  - object position : 255.70499999999998, 57.77
+2018-02-12 22:32:27,785 :: INFO ::  - question/answers :
+2018-02-12 22:32:27,785 :: INFO ::   > Is it a person? ? No
+2018-02-12 22:32:27,785 :: INFO ::   > Does it have wheels? ? Yes
+2018-02-12 22:32:27,786 :: INFO ::   > Is the board orange? ? Yes
+2018-02-12 22:32:27,786 :: INFO ::   #> success
+2018-02-12 22:32:27,786 :: INFO :: 
+2018-02-12 22:32:27,786 :: INFO :: Dialogue 81 : 
+2018-02-12 22:32:27,786 :: INFO ::  - picture : http://mscoco.org/images/31904
+2018-02-12 22:32:27,787 :: INFO ::  - object category : car
+2018-02-12 22:32:27,787 :: INFO ::  - object position : 284.68, 428.58500000000004
+2018-02-12 22:32:27,787 :: INFO ::  - question/answers :
+2018-02-12 22:32:27,787 :: INFO ::   > Is it a she? ? No
+2018-02-12 22:32:27,787 :: INFO ::   > Is it a he? ? No
+2018-02-12 22:32:27,788 :: INFO ::   > Is it a vehicle? ? Yes
+2018-02-12 22:32:27,788 :: INFO ::   > Is it a four wheeler? ? Yes
+2018-02-12 22:32:27,788 :: INFO ::   > Is it a van? ? No
+2018-02-12 22:32:27,788 :: INFO ::   > Is it a car? ? Yes
+2018-02-12 22:32:27,788 :: INFO ::   #> success
+2018-02-12 22:32:27,789 :: INFO :: 
+2018-02-12 22:32:27,789 :: INFO :: Dialogue 82 : 
+2018-02-12 22:32:27,789 :: INFO ::  - picture : http://mscoco.org/images/291827
+2018-02-12 22:32:27,789 :: INFO ::  - object category : person
+2018-02-12 22:32:27,790 :: INFO ::  - object position : 585.63, 188.875
+2018-02-12 22:32:27,790 :: INFO ::  - question/answers :
+2018-02-12 22:32:27,790 :: INFO ::   > is it a person? ? Yes
+2018-02-12 22:32:27,790 :: INFO ::   > do they have black clothing on? ? Yes
+2018-02-12 22:32:27,790 :: INFO ::   > are they touching an orange surfboard? ? Yes
+2018-02-12 22:32:27,791 :: INFO ::   #> success
+2018-02-12 22:32:27,791 :: INFO :: 
+2018-02-12 22:32:27,791 :: INFO :: Dialogue 83 : 
+2018-02-12 22:32:27,791 :: INFO ::  - picture : http://mscoco.org/images/491172
+2018-02-12 22:32:27,791 :: INFO ::  - object category : person
+2018-02-12 22:32:27,792 :: INFO ::  - object position : 231.55, 290.52
+2018-02-12 22:32:27,792 :: INFO ::  - question/answers :
+2018-02-12 22:32:27,792 :: INFO ::   > Is it a person? ? Yes
+2018-02-12 22:32:27,792 :: INFO ::   > It is an adult? ? No
+2018-02-12 22:32:27,793 :: INFO ::   #> success
+2018-02-12 22:32:27,793 :: INFO :: 
+2018-02-12 22:32:27,793 :: INFO :: Dialogue 84 : 
+2018-02-12 22:32:27,793 :: INFO ::  - picture : http://mscoco.org/images/251857
+2018-02-12 22:32:27,794 :: INFO ::  - object category : car
+2018-02-12 22:32:27,794 :: INFO ::  - object position : 521.33, 238.975
+2018-02-12 22:32:27,794 :: INFO ::  - question/answers :
+2018-02-12 22:32:27,794 :: INFO ::   > Is it a human? ? No
+2018-02-12 22:32:27,795 :: INFO ::   > Is it a piece of clothing/apparel? ? No
+2018-02-12 22:32:27,795 :: INFO ::   > Is it green? ? No
+2018-02-12 22:32:27,795 :: INFO ::   > Is it a piece of sport equipment? ? No
+2018-02-12 22:32:27,795 :: INFO ::   > Is it a car? ? Yes
+2018-02-12 22:32:27,795 :: INFO ::   > Is it placed closer to us than the rest ones in the image? ? No
+2018-02-12 22:32:27,796 :: INFO ::   > Does it have red stripes on it? ? No
+2018-02-12 22:32:27,796 :: INFO ::   > Is it blue? ? No
+2018-02-12 22:32:27,796 :: INFO ::   > Is it between the one with red stripes and the ones that is fully white? ? Yes
+2018-02-12 22:32:27,796 :: INFO ::   #> success
+2018-02-12 22:32:27,797 :: INFO :: 
+2018-02-12 22:32:27,797 :: INFO :: Dialogue 85 : 
+2018-02-12 22:32:27,797 :: INFO ::  - picture : http://mscoco.org/images/78782
+2018-02-12 22:32:27,797 :: INFO ::  - object category : sink
+2018-02-12 22:32:27,798 :: INFO ::  - object position : 329.235, 525.205
+2018-02-12 22:32:27,798 :: INFO ::  - question/answers :
+2018-02-12 22:32:27,798 :: INFO ::   > is it a bear? ? No
+2018-02-12 22:32:27,798 :: INFO ::   > is it a toilet? ? No
+2018-02-12 22:32:27,798 :: INFO ::   > is it a sink? ? Yes
+2018-02-12 22:32:27,798 :: INFO ::   #> success
+2018-02-12 22:32:27,799 :: INFO :: 
+2018-02-12 22:32:27,799 :: INFO :: Dialogue 86 : 
+2018-02-12 22:32:27,799 :: INFO ::  - picture : http://mscoco.org/images/196843
+2018-02-12 22:32:27,799 :: INFO ::  - object category : bicycle
+2018-02-12 22:32:27,800 :: INFO ::  - object position : 66.8, 51.300000000000026
+2018-02-12 22:32:27,800 :: INFO ::  - question/answers :
+2018-02-12 22:32:27,800 :: INFO ::   > is it a letter? ? No
+2018-02-12 22:32:27,800 :: INFO ::   > Is it on the bus? ? No
+2018-02-12 22:32:27,800 :: INFO ::   > Is it living? ? No
+2018-02-12 22:32:27,801 :: INFO ::   > Does it have wheels? ? Yes
+2018-02-12 22:32:27,801 :: INFO ::   > Is it leaning against a road sign post? ? No
+2018-02-12 22:32:27,802 :: INFO ::   > Is it at the rear of the bus? ? Yes
+2018-02-12 22:32:27,802 :: INFO ::   #> success
+2018-02-12 22:32:27,802 :: INFO :: 
+2018-02-12 22:32:27,802 :: INFO :: Dialogue 87 : 
+2018-02-12 22:32:27,803 :: INFO ::  - picture : http://mscoco.org/images/340069
+2018-02-12 22:32:27,803 :: INFO ::  - object category : cake
+2018-02-12 22:32:27,803 :: INFO ::  - object position : 555.75, 254.49
+2018-02-12 22:32:27,803 :: INFO ::  - question/answers :
+2018-02-12 22:32:27,803 :: INFO ::   > Is it a person? ? No
+2018-02-12 22:32:27,804 :: INFO ::   > Is it in the foreground? ? Yes
+2018-02-12 22:32:27,804 :: INFO ::   > Is it silver? ? No
+2018-02-12 22:32:27,804 :: INFO ::   > Is it edible? ? Yes
+2018-02-12 22:32:27,804 :: INFO ::   #> success
+2018-02-12 22:32:27,804 :: INFO :: 
+2018-02-12 22:32:27,804 :: INFO :: Dialogue 88 : 
+2018-02-12 22:32:27,805 :: INFO ::  - picture : http://mscoco.org/images/74842
+2018-02-12 22:32:27,805 :: INFO ::  - object category : car
+2018-02-12 22:32:27,805 :: INFO ::  - object position : 111.88, 230.44
+2018-02-12 22:32:27,805 :: INFO ::  - question/answers :
+2018-02-12 22:32:27,805 :: INFO ::   > Is it a person? ? No
+2018-02-12 22:32:27,806 :: INFO ::   > does it have wheels? ? Yes
+2018-02-12 22:32:27,806 :: INFO ::   > is it in the background? ? Yes
+2018-02-12 22:32:27,807 :: INFO ::   > is it red? ? No
+2018-02-12 22:32:27,807 :: INFO ::   > is it white? ? Yes
+2018-02-12 22:32:27,807 :: INFO ::   #> success
+2018-02-12 22:32:27,807 :: INFO :: 
+2018-02-12 22:32:27,807 :: INFO :: Dialogue 89 : 
+2018-02-12 22:32:27,808 :: INFO ::  - picture : http://mscoco.org/images/383084
+2018-02-12 22:32:27,808 :: INFO ::  - object category : person
+2018-02-12 22:32:27,808 :: INFO ::  - object position : 23.295, 281.90999999999997
+2018-02-12 22:32:27,808 :: INFO ::  - question/answers :
+2018-02-12 22:32:27,809 :: INFO ::   > is it the person with the bat? ? No
+2018-02-12 22:32:27,810 :: INFO ::   > is it the person bending over in the front? ? No
+2018-02-12 22:32:27,810 :: INFO ::   > is it a person? ? Yes
+2018-02-12 22:32:27,810 :: INFO ::   > are they in the back left? ? Yes
+2018-02-12 22:32:27,810 :: INFO ::   #> success
+2018-02-12 22:32:27,811 :: INFO :: 
+2018-02-12 22:32:27,811 :: INFO :: Dialogue 90 : 
+2018-02-12 22:32:27,811 :: INFO ::  - picture : http://mscoco.org/images/74461
+2018-02-12 22:32:27,811 :: INFO ::  - object category : bench
+2018-02-12 22:32:27,811 :: INFO ::  - object position : 143.155, 322.03000000000003
+2018-02-12 22:32:27,812 :: INFO ::  - question/answers :
+2018-02-12 22:32:27,812 :: INFO ::   > is it a person? ? No
+2018-02-12 22:32:27,812 :: INFO ::   > is it a tree? ? No
+2018-02-12 22:32:27,812 :: INFO ::   > is it a bench? ? Yes
+2018-02-12 22:32:27,812 :: INFO ::   #> success
+2018-02-12 22:32:27,813 :: INFO :: 
+2018-02-12 22:32:27,813 :: INFO :: Dialogue 91 : 
+2018-02-12 22:32:27,813 :: INFO ::  - picture : http://mscoco.org/images/240684
+2018-02-12 22:32:27,813 :: INFO ::  - object category : person
+2018-02-12 22:32:27,814 :: INFO ::  - object position : 192.135, 168.54
+2018-02-12 22:32:27,814 :: INFO ::  - question/answers :
+2018-02-12 22:32:27,814 :: INFO ::   > Is the object a person? ? Yes
+2018-02-12 22:32:27,814 :: INFO ::   > Is the object wearing red/pink? ? No
+2018-02-12 22:32:27,815 :: INFO ::   #> success
+2018-02-12 22:32:27,815 :: INFO :: 
+2018-02-12 22:32:27,815 :: INFO :: Dialogue 92 : 
+2018-02-12 22:32:27,815 :: INFO ::  - picture : http://mscoco.org/images/336088
+2018-02-12 22:32:27,816 :: INFO ::  - object category : dining table
+2018-02-12 22:32:27,816 :: INFO ::  - object position : 319.42, 216.825
+2018-02-12 22:32:27,816 :: INFO ::  - question/answers :
+2018-02-12 22:32:27,816 :: INFO ::   > is it edible? ? No
+2018-02-12 22:32:27,816 :: INFO ::   > is it blue? ? No
+2018-02-12 22:32:27,817 :: INFO ::   > does it hold liquid? ? No
+2018-02-12 22:32:27,817 :: INFO ::   > is the main use of it to cut things? ? No
+2018-02-12 22:32:27,817 :: INFO ::   > is it yellow? ? Yes
+2018-02-12 22:32:27,817 :: INFO ::   #> success
+2018-02-12 22:32:27,818 :: INFO :: 
+2018-02-12 22:32:27,818 :: INFO :: Dialogue 93 : 
+2018-02-12 22:32:27,818 :: INFO ::  - picture : http://mscoco.org/images/409241
+2018-02-12 22:32:27,818 :: INFO ::  - object category : person
+2018-02-12 22:32:27,818 :: INFO ::  - object position : 202.60999999999999, 244.09500000000003
+2018-02-12 22:32:27,819 :: INFO ::  - question/answers :
+2018-02-12 22:32:27,819 :: INFO ::   > Is the object a train? ? No
+2018-02-12 22:32:27,819 :: INFO ::   > Is the object a person? ? Yes
+2018-02-12 22:32:27,819 :: INFO ::   > Is the object wearing blue? ? Yes
+2018-02-12 22:32:27,819 :: INFO ::   #> success
+2018-02-12 22:32:27,820 :: INFO :: 
+2018-02-12 22:32:27,820 :: INFO :: Dialogue 94 : 
+2018-02-12 22:32:27,820 :: INFO ::  - picture : http://mscoco.org/images/447733
+2018-02-12 22:32:27,820 :: INFO ::  - object category : person
+2018-02-12 22:32:27,820 :: INFO ::  - object position : 169.7, 195.425
+2018-02-12 22:32:27,821 :: INFO ::  - question/answers :
+2018-02-12 22:32:27,821 :: INFO ::   > Is it a person? ? Yes
+2018-02-12 22:32:27,821 :: INFO ::   > Are they on a skateboard? ? No
+2018-02-12 22:32:27,821 :: INFO ::   #> success
+2018-02-12 22:32:27,821 :: INFO :: 
+2018-02-12 22:32:27,822 :: INFO :: Dialogue 95 : 
+2018-02-12 22:32:27,822 :: INFO ::  - picture : http://mscoco.org/images/203429
+2018-02-12 22:32:27,822 :: INFO ::  - object category : umbrella
+2018-02-12 22:32:27,822 :: INFO ::  - object position : 384.97499999999997, 330.025
+2018-02-12 22:32:27,823 :: INFO ::  - question/answers :
+2018-02-12 22:32:27,823 :: INFO ::   > Is it a person? ? No
+2018-02-12 22:32:27,823 :: INFO ::   > Is it in the background? ? No
+2018-02-12 22:32:27,823 :: INFO ::   > Is it yellow? ? No
+2018-02-12 22:32:27,823 :: INFO ::   > Is it pink? ? Yes
+2018-02-12 22:32:27,824 :: INFO ::   > Is it an umbrella? ? Yes
+2018-02-12 22:32:27,824 :: INFO ::   #> success
+2018-02-12 22:32:27,824 :: INFO :: 
+2018-02-12 22:32:27,824 :: INFO :: Dialogue 96 : 
+2018-02-12 22:32:27,824 :: INFO ::  - picture : http://mscoco.org/images/145264
+2018-02-12 22:32:27,825 :: INFO ::  - object category : person
+2018-02-12 22:32:27,825 :: INFO ::  - object position : 584.22, 66.34999999999997
+2018-02-12 22:32:27,825 :: INFO ::  - question/answers :
+2018-02-12 22:32:27,825 :: INFO ::   > is it a person? ? Yes
+2018-02-12 22:32:27,825 :: INFO ::   > is it the closest person? ? Yes
+2018-02-12 22:32:27,826 :: INFO ::   #> success
+2018-02-12 22:32:27,826 :: INFO :: 
+2018-02-12 22:32:27,826 :: INFO :: Dialogue 97 : 
+2018-02-12 22:32:27,826 :: INFO ::  - picture : http://mscoco.org/images/70211
+2018-02-12 22:32:27,826 :: INFO ::  - object category : cake
+2018-02-12 22:32:27,827 :: INFO ::  - object position : 277.21500000000003, 297.71000000000004
+2018-02-12 22:32:27,827 :: INFO ::  - question/answers :
+2018-02-12 22:32:27,827 :: INFO ::   > Is in edible? ? Yes
+2018-02-12 22:32:27,827 :: INFO ::   > Is it in the top of the intact pieces of cake? ? Yes
+2018-02-12 22:32:27,827 :: INFO ::   > Is it in the form of a rectangular? ? Yes
+2018-02-12 22:32:27,828 :: INFO ::   > Is it white? ? Yes
+2018-02-12 22:32:27,828 :: INFO ::   > Does it covers ALL visible intact pieces of cake? ? Yes
+2018-02-12 22:32:27,828 :: INFO ::   #> success
+2018-02-12 22:32:27,828 :: INFO :: 
+2018-02-12 22:32:27,828 :: INFO :: Dialogue 98 : 
+2018-02-12 22:32:27,829 :: INFO ::  - picture : http://mscoco.org/images/71226
+2018-02-12 22:32:27,829 :: INFO ::  - object category : dog
+2018-02-12 22:32:27,829 :: INFO ::  - object position : 357.875, 144.07000000000002
+2018-02-12 22:32:27,829 :: INFO ::  - question/answers :
+2018-02-12 22:32:27,830 :: INFO ::   > does it have fur? ? Yes
+2018-02-12 22:32:27,830 :: INFO ::   > is it a dog? ? Yes
+2018-02-12 22:32:27,830 :: INFO ::   > is it a light brown dog? ? Yes
+2018-02-12 22:32:27,830 :: INFO ::   #> success
+2018-02-12 22:32:27,830 :: INFO :: 
+2018-02-12 22:32:27,831 :: INFO :: Dialogue 99 : 
+2018-02-12 22:32:27,831 :: INFO ::  - picture : http://mscoco.org/images/544325
+2018-02-12 22:32:27,831 :: INFO ::  - object category : person
+2018-02-12 22:32:27,831 :: INFO ::  - object position : 58.25, 245.34999999999997
+2018-02-12 22:32:27,831 :: INFO ::  - question/answers :
+2018-02-12 22:32:27,832 :: INFO ::   > is it a person? ? Yes
+2018-02-12 22:32:27,832 :: INFO ::   > is he wearing a brown coat? ? No
+2018-02-12 22:32:27,832 :: INFO ::   > is he wearing a white shirt? ? No
+2018-02-12 22:32:27,832 :: INFO ::   > does he have the number 2 on his shirt? ? No
+2018-02-12 22:32:27,833 :: INFO ::   > is he wearing a blue shirt? ? No
+2018-02-12 22:32:27,833 :: INFO ::   > are they sitting down? ? No
+2018-02-12 22:32:27,833 :: INFO ::   > is it the guy in the orange shirt to the left? ? Yes
+2018-02-12 22:32:27,833 :: INFO ::   #> success
+2018-02-12 22:32:27,833 :: INFO :: 
+2018-02-12 22:32:43,153 :: INFO :: Number of dialogues: 107021
+2018-02-12 22:32:43,161 :: INFO :: Number of words:     2671524
+2018-02-12 22:32:43,161 :: INFO :: voc size:            9780
+2018-02-12 22:32:43,161 :: INFO :: voc size (occ >3):   4666
+2018-02-12 22:32:43,162 :: INFO :: 50 most common words
+2018-02-12 22:32:43,167 :: INFO :: [('is', 413466), ('it', 372545), ('the', 292510), ('a', 156384), ('person', 74622), ('on', 68718), ('in', 67405), ('of', 54963), ('one', 47165), ('left', 37096), ('right', 32033), ('to', 24543), ('white', 20867), ('wearing', 15458), ('red', 14406), ('side', 14182), ('black', 13521), ('front', 13144), ('with', 12977), ('are', 12797), ('blue', 12227), ('they', 11515), ('he', 11221), ('table', 10721), ('top', 10212), ('car', 10088), ('does', 9398), ('an', 9016), ('that', 8942), ('picture', 8617), ('middle', 8359), ('from', 8096), ('food', 7806), ('have', 7772), ('object', 7766), ('shirt', 7491), ('green', 7300), ('chair', 7142), ('man', 7121), ('near', 6883), ('behind', 6663), ('yellow', 6391), ('you', 6375), ('and', 6295), ('can', 6281), ('back', 5700), ('next', 5673), ('first', 5559), ('something', 5513), ('whole', 5428)]
+2018-02-12 22:34:13,353 :: WARNING :: Unexpected in cloud of words : on left
+2018-02-12 22:34:13,363 :: WARNING :: Unexpected in cloud of words : on right
+2018-02-12 22:34:13,365 :: WARNING :: Unexpected in cloud of words : one of
+2018-02-12 22:34:13,368 :: WARNING :: Unexpected in cloud of words : in front
+2018-02-12 22:34:13,371 :: WARNING :: Unexpected in cloud of words : person in
+2018-02-12 22:34:13,377 :: WARNING :: Unexpected in cloud of words : right side
+2018-02-12 22:34:13,379 :: WARNING :: Unexpected in cloud of words : side of
+2018-02-12 22:34:13,382 :: WARNING :: Unexpected in cloud of words : left side
+2018-02-12 22:34:13,385 :: WARNING :: Unexpected in cloud of words : person on
+2018-02-12 22:34:13,387 :: WARNING :: Unexpected in cloud of words : in middle
+2018-02-12 22:34:13,394 :: WARNING :: Unexpected in cloud of words : person person
+2018-02-12 22:34:13,399 :: WARNING :: Unexpected in cloud of words : person wearing
+2018-02-12 22:34:13,403 :: WARNING :: Unexpected in cloud of words : to right
+2018-02-12 22:34:13,405 :: WARNING :: Unexpected in cloud of words : one in
+2018-02-12 22:34:13,407 :: WARNING :: Unexpected in cloud of words : one on
+2018-02-12 22:34:13,410 :: WARNING :: Unexpected in cloud of words : to left
+2018-02-12 22:34:13,412 :: WARNING :: Unexpected in cloud of words : left of
+2018-02-12 22:34:13,414 :: WARNING :: Unexpected in cloud of words : in left
+2018-02-12 22:34:13,416 :: WARNING :: Unexpected in cloud of words : next to
+2018-02-12 22:34:13,419 :: WARNING :: Unexpected in cloud of words : right of
+2018-02-12 22:34:13,421 :: WARNING :: Unexpected in cloud of words : on table
+2018-02-12 22:34:13,427 :: WARNING :: Unexpected in cloud of words : in background
+2018-02-12 22:34:13,429 :: WARNING :: Unexpected in cloud of words : part of
+2018-02-12 22:34:13,432 :: WARNING :: Unexpected in cloud of words : on top
+2018-02-12 22:34:13,434 :: WARNING :: Unexpected in cloud of words : front of
+2018-02-12 22:34:13,438 :: WARNING :: Unexpected in cloud of words : from left
+2018-02-12 22:34:13,442 :: WARNING :: Unexpected in cloud of words : in right
+2018-02-12 22:34:13,444 :: WARNING :: Unexpected in cloud of words : closest to
+2018-02-12 22:34:13,447 :: WARNING :: Unexpected in cloud of words : left person
+2018-02-12 22:34:13,449 :: WARNING :: Unexpected in cloud of words : of person
+2018-02-12 22:34:13,451 :: WARNING :: Unexpected in cloud of words : in foreground
+2018-02-12 22:34:13,452 :: WARNING :: Unexpected in cloud of words : left one
+2018-02-12 22:34:13,454 :: WARNING :: Unexpected in cloud of words : one person
+2018-02-12 22:34:13,458 :: WARNING :: Unexpected in cloud of words : half of
+2018-02-12 22:34:13,461 :: WARNING :: Unexpected in cloud of words : person one
+2018-02-12 22:34:13,463 :: WARNING :: Unexpected in cloud of words : in white
+2018-02-12 22:34:13,464 :: WARNING :: Unexpected in cloud of words : of image
+2018-02-12 22:34:13,466 :: WARNING :: Unexpected in cloud of words : wearing white
+2018-02-12 22:34:13,467 :: WARNING :: Unexpected in cloud of words : in back
+2018-02-12 22:34:13,468 :: WARNING :: Unexpected in cloud of words : top of
+2018-02-12 22:34:13,469 :: WARNING :: Unexpected in cloud of words : white shirt
+2018-02-12 22:34:13,472 :: WARNING :: Unexpected in cloud of words : wearing red
+2018-02-12 22:34:13,475 :: WARNING :: Unexpected in cloud of words : from right
+2018-02-12 22:34:13,477 :: WARNING :: Unexpected in cloud of words : of two
+2018-02-12 22:34:13,479 :: WARNING :: Unexpected in cloud of words : wearing black
+2018-02-12 22:34:13,482 :: WARNING :: Unexpected in cloud of words : one with
+2018-02-12 22:34:13,485 :: WARNING :: Unexpected in cloud of words : on person
+2018-02-12 22:34:13,487 :: WARNING :: Unexpected in cloud of words : in blue
+2018-02-12 22:34:13,489 :: WARNING :: Unexpected in cloud of words : right one
+2018-02-12 22:34:13,492 :: WARNING :: Unexpected in cloud of words : in black
+2018-02-12 22:34:13,494 :: WARNING :: Unexpected in cloud of words : in red
+2018-02-12 22:34:13,496 :: WARNING :: Unexpected in cloud of words : wearing blue
+2018-02-12 22:34:13,499 :: WARNING :: Unexpected in cloud of words : close to
+2018-02-12 22:34:13,501 :: WARNING :: Unexpected in cloud of words : first one
+2018-02-12 22:34:13,503 :: WARNING :: Unexpected in cloud of words : on wall
+2018-02-12 22:34:13,505 :: WARNING :: Unexpected in cloud of words : all of
+2018-02-12 22:34:13,508 :: WARNING :: Unexpected in cloud of words : man in
+2018-02-12 22:34:13,510 :: WARNING :: Unexpected in cloud of words : sitting on
+2018-02-12 22:34:13,511 :: WARNING :: Unexpected in cloud of words : piece of
+2018-02-12 22:34:13,514 :: WARNING :: Unexpected in cloud of words : on far
+2018-02-12 22:34:13,516 :: WARNING :: Unexpected in cloud of words : something on
+2018-02-12 22:34:13,523 :: WARNING :: Unexpected in cloud of words : person holding
+2018-02-12 22:34:13,525 :: WARNING :: Unexpected in cloud of words : shirt person
+2018-02-12 22:34:13,527 :: WARNING :: Unexpected in cloud of words : in top
+2018-02-12 22:34:13,529 :: WARNING :: Unexpected in cloud of words : far right
+2018-02-12 22:34:13,531 :: WARNING :: Unexpected in cloud of words : guy in
+2018-02-12 22:34:13,534 :: WARNING :: Unexpected in cloud of words : in color
+2018-02-12 22:34:13,536 :: WARNING :: Unexpected in cloud of words : made of
+2018-02-12 22:34:13,540 :: WARNING :: Unexpected in cloud of words : middle of
+2018-02-12 22:34:13,542 :: WARNING :: Unexpected in cloud of words : far left
+2018-02-12 22:34:13,543 :: WARNING :: Unexpected in cloud of words : of in
